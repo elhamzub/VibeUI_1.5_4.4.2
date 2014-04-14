@@ -322,9 +322,9 @@
     <string name="swing_lock_summary">Потрясите телефоном для блокировки</string>
     <string name="smart_call_answer_title">Умный ответ</string>
     <string name="smart_call_answer_summary">При входящем вызове просто поднесите аппарат к уху</string>
-    <string name="long_menu_active_voice">Клавиша MENU активирует голосовое управление</string>
-    <string name="long_menu_active_voice_summary">Долгое нажатие MENU активирует голосовое управление</string>
-    <string name="side_key_backlight_title">Вкл. громкостью</string>
+    <string name="long_menu_active_voice">Включение управления голосом</string>
+    <string name="long_menu_active_voice_summary">Долгое нажатие клавиши MENU активирует голосовое управление</string>
+    <string name="side_key_backlight_title">Включение громкостью</string>
     <string name="side_key_backlight_summary">Использовать клавиши громкости для включения экрана</string>
     <string name="slide_unlock_title">Разблокировка</string>
     <string name="slide_unlock_summary">Когда экран выключен, экран слайдов, чтобы проснуться и разблокировать</string>
@@ -359,8 +359,8 @@
     <string name="internal_storage_app">Внутреннее хранилище приложений</string>
     <string name="service_background_processes_ram">%1$s приложений свободно</string>
     <string name="service_foreground_processes_ram">%1$s приложений используется</string>
-    <string name="display_smart_standby">Интел. режим ожидания</string>
-    <string name="smart_standby_ctrl_description">Если наступает время откл. экрана для активации передней камеры, включите экран, направив телефон себе в лицо, затем отключите экран.</string>
+    <string name="display_smart_standby">Умный режим ожидания</string>
+    <string name="smart_standby_ctrl_description">Когда наступает время отключения экрана для активации передней камеры, включите экран, направив телефон себе в лицо, затем отключите экран.</string>
     <string name="smart_scene_title">Умный сценарий</string>
     <string name="smart_scene_summary">Вы можете настроить свой профиль в указанное время, вы также можете настроить свой профиль для конкретной сети Wi-Fi.</string>
     <string name="lockscreen_face_detection_ctrl">Разблокировать функцию распознавания лиц</string>
@@ -2731,7 +2731,7 @@
     <string name="gemini_sim_color_work">Работа</string>
     <string name="gemini_sim_color_live">Интерактивный</string>
     <string name="gemini_sim_color_offsite">Вне площадки</string>
-    <string name="smart_rotete_cbox_title">Повернуть экран</string>
+    <string name="smart_rotete_cbox_title">Умное вращение экрана</string>
     <string name="smart_rotete_cbox_summary">Умный</string>
     <string name="gesture_rotete_cbox_summary">Жест</string>
     <string name="auto_rotete_cbox_summary">Автоматически</string>
@@ -2872,8 +2872,8 @@
     <string name="smartscene_enabled_summary">СмартСцена запущена</string>
     <string name="smartscene_home_weather">Прогноз погоды перед открытием</string>
     <string name="smartscene_home_weather_summary">Местный прогноз Forecast</string>
-    <string name="smartscene_home_roadcondition">Трафик транслироваться когда открытый</string>
-    <string name="smartscene_home_roadcondition_summary">Слушать сети вокруг</string>
+    <string name="smartscene_home_roadcondition">Дорожные события</string>
+    <string name="smartscene_home_roadcondition_summary">Передавать информацию о дорожной ситуации вокруг</string>
     <string name="smartscene_car">За рулём</string>
     <string name="smartscene_car_summary">Auto opne/close car mode</string>
     <string name="traffic_broadcast_summary">"Трансляции детали трафика
