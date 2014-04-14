@@ -67,7 +67,34 @@
         <item>Низкий</item>
         <item>Обычный</item>
         <item>Высокий</item>
+<<<<<<< HEAD
         <item>Очень высокий</item>
+=======
+        <item>Очень высокая</item>
+    </string-array>
+    <string-array name="tts_pitch_values">
+        <item>50</item>
+        <item>80</item>
+        <item>100</item>
+        <item>120</item>
+        <item>150</item>
+    </string-array>
+    <string-array name="tts_demo_strings">
+        <item>Это пример синтеза речи на русском языке.</item>
+        <item>Voici ООН échantillon де Synthèse Vocale ан французский.</item>
+        <item>Dies ист Эйн Beispiel für Sprachsynthese в Deutsch.</item>
+        <item>Questo E Классификация ООН Esempio ди Sintesi Vocale в Italiano.</item>
+        <item>Эсте эс ООН ejemplo де Sintesis де VOZ ан испанский.</item>
+        <item>Это пример синтеза речи на корейском языке.</item>
+    </string-array>
+    <string-array name="tts_demo_string_langs">
+        <item>ENG</item>
+        <item>фра</item>
+        <item>DEU</item>
+        <item>ITA</item>
+        <item>спа</item>
+        <item>кор</item>
+>>>>>>> 6e3df693a7ea19e503c0a0ca6709cd199fb086c1
     </string-array>
     <string-array name="wifi_status">
         <item></item>
@@ -168,9 +195,28 @@
         <item>Вручную</item>
     </string-array>
     <string-array name="emergency_tone_entries">
+<<<<<<< HEAD
         <item>Выкл.</item>
         <item>Оповещение</item>
         <item>Виброзвонок</item>
+=======
+        <item>От</item>
+        <item>Тревога</item>
+        <item>Вибрировать</item>
+    </string-array>
+    <string-array name="emergency_tone_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="special_locale_codes">
+        <item>zh_CN</item>
+        <item>zh_TW</item>
+    </string-array>
+    <string-array name="special_locale_names">
+        <item>Китайский (упрощенный)</item>
+        <item>Китайский (традиционный)</item>
+>>>>>>> 6e3df693a7ea19e503c0a0ca6709cd199fb086c1
     </string-array>
     <string-array name="apn_auth_entries">
         <item>Нет</item>
