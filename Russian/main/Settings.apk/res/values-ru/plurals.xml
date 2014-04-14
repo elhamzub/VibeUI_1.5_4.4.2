@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="show_dev_countdown">
-        <item quantity="other">Теперь вы %1$d шагах от того, чтобы быть разработчиком.</item>
-        <item quantity="one">Теперь вы %1$d шаге от того, чтобы быть разработчиком.</item>
+        <item quantity="other">Вы почти у цели. Осталось несколько шагов (%1$d).</item>
+        <item quantity="one">Вы почти у цели. Осталось несколько шагов (%1$d).</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">Пароль должен содержать не менее %d письма.</item>
-        <item quantity="one">Пароль должен содержать не менее 1 письмо.</item>
+        <item quantity="other">Пароль должен содержать буквы (не менее %d).</item>
+        <item quantity="one">Пароль должен содержать хотя бы одну букву.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">Пароль должен содержать не менее %d строчные буквы.</item>
-        <item quantity="one">Пароль должен содержать не менее 1 строчную букву.</item>
+        <item quantity="other">Пароль должен содержать строчные буквы (не менее %d).</item>
+        <item quantity="one">Пароль должен содержать хотя бы одну строчную букву.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">Пароль должен содержать не менее %d прописные буквы.</item>
-        <item quantity="one">Пароль должен содержать не менее 1 заглавную букву.</item>
+        <item quantity="other">Пароль должен содержать заглавные буквы (не менее %d).</item>
+        <item quantity="one">Пароль должен содержать хотя бы одну заглавную букву.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">Пароль должен содержать не менее %d цифр.</item>
-        <item quantity="one">Пароль должен содержать не менее 1 численное цифру.</item>
+        <item quantity="other">Пароль должен содержать цифры (не менее %d).</item>
+        <item quantity="one">Пароль должен содержать хотя бы одну цифру.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">Пароль должен содержать не менее %d специальные символы.</item>
-        <item quantity="one">Пароль должен содержать не менее 1 специальный символ.</item>
+        <item quantity="other">Пароль должен содержать специальные символы (не менее %d).</item>
+        <item quantity="one">Пароль должен содержать хотя бы один специальный символ.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">Пароль должен содержать не менее %d, не являющиеся буквами символов.</item>
-        <item quantity="one">Пароль должен содержать не менее 1 не-письмо характер.</item>
+        <item quantity="other">Пароль должен содержать небуквенные символы (не менее %d).</item>
+        <item quantity="one">Пароль должен содержать хотя бы один небуквенный символ.</item>
     </plurals>
     <plurals name="manage_notification_access_summary_nonzero">
-        <item quantity="other">%d приложения могут читать уведомления</item>
-        <item quantity="one">%d приложение может читать уведомления</item>
+        <item quantity="other">%d приложений могут читать уведомления</item>
+        <item quantity="one">%d app могут читать уведомления</item>
     </plurals>
     <plurals name="wrong_pin_code">
-        <item quantity="other">Неправильное PIN-код SIM-код, у вас есть %d оставшиеся попытки.</item>
-        <item quantity="one">Неправильное PIN-код SIM-код, у вас есть %d оставшуюся попытку, прежде чем вы должны обратиться к своему оператору, чтобы разблокировать устройство.</item>
+        <item quantity="other">Не верный SIM PIN - код, у вас %d попыток.</item>
+        <item quantity="one">Не верный SIM PIN - код, у вас %d попыток, потом телефон заблокируется</item>
     </plurals>
     <plurals name="print_search_result_count_utterance">
-        <item quantity="other">найдено %1$s принтеры</item>
-        <item quantity="one">%1$s принтер найдено</item>
+        <item quantity="other">%1$s принтеров найдено</item>
+        <item quantity="one">%1$s принтер найден</item>
     </plurals>
 </resources>
