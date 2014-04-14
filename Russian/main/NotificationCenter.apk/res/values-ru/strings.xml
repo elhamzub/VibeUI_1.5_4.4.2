@@ -11,7 +11,7 @@
     <string name="lenovo_about_AboutInfoCopyRight_Cn">Lenovo корпорации, все права защищены</string>
     <string name="lenovo_about_AboutInfoCopyRight_En">Copyright © 2013 Lenovo все права защищены</string>
     <string name="lenovo_about_netconnect_alert">Эта операция будет проводиться через сеть, продолжить?</string>
-    <string name="SUS_MSG_FAIL_NOWLANCONNECTED">Включите WLAN!</string>
+    <string name="SUS_MSG_FAIL_NOWLANCONNECTED">Включите Wi-Fi!</string>
     <string name="SUS_MSG_LATESTVERSION">Это последняя версия!</string>
     <string name="SUS_MSG_NOTFOUND">Обновлений нет!</string>
     <string name="SUS_MSG_FAIL_NETWORKUNAVAILABLE">Сеть не доступна!</string>
@@ -25,7 +25,7 @@
     <string name="SUS_UPDATEDESC">Описание:</string>
     <string name="SUS_UPDATEVERPROMPT_VERNAME">Имя:</string>
     <string name="SUS_UPDATEVERPROMPT_VERSIZE">Размер:</string>
-    <string name="SUS_UPDATESIZEPROMPT_WLAN">WLAN рекомендуется для загрузки!</string>
+    <string name="SUS_UPDATESIZEPROMPT_WLAN">Для загрузки рекомендуется Wi-Fi!</string>
     <string name="SUS_UPDATE">Обновить</string>
     <string name="SUS_CANCEL">Позже</string>
     <string name="SUS_DOWNLOAD_TITLE">Загрузка IdeaFriend!</string>
@@ -35,7 +35,7 @@
     <string name="SUS_NOTIFICATION_TIMEOUTPROMPT">Истекло время ожидания сети. Пробуйте позже...</string>
     <string name="SUS_NOTIFICATION_HIDE_BUTTONTEXT">Да</string>
     <string name="SUS_NOTIFICATION_ABORTUPDATE_BUTTONTEXT">Отмена</string>
-    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_1">(Диалоговое окно будет скрывать после</string>
+    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_1">(Диалоговое окно будет скрыто через</string>
     <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_2">секунд.)</string>
     <string name="SUS_NOTIFICATION_INSTALLAPK_TITLE">Пожалуйста нажмите чтобы установить!</string>
     <string name="SUS_NOTIFICATION_INSTALLAPK">Пожалуйста нажмите чтобы установить:</string>
@@ -57,14 +57,14 @@
     <string name="icon_type_earphone">Наушники</string>
     <string name="icon_type_clock">часы</string>
     <string name="icon_type_voice">Голос</string>
-    <string name="icon_type_wifi">Wifi</string>
+    <string name="icon_type_wifi">Wi-Fi</string>
     <string name="icon_type_signal">Сигнал</string>
     <string name="icon_type_battery">Батарея</string>
     <string name="icon_type_bluetooth">Bluetooth</string>
     <string name="icon_type_flight_mode">В полете</string>
     <string name="icon_type_no_sim">Нет сим</string>
-    <string name="icon_type_sim1">Sim1</string>
-    <string name="icon_type_sim2">Sim2</string>
+    <string name="icon_type_sim1">SIM1</string>
+    <string name="icon_type_sim2">SIM2</string>
     <string name="icon_type_time">Время</string>
     <string name="icon_type_silence">тихий</string>
     <string name="icon_type_vibrate">вибра</string>
