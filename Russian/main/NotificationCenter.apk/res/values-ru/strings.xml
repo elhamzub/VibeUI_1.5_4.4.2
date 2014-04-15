@@ -386,20 +386,20 @@
     <string name="app_disable_notifications_dlg_text">В случае отключения уведомлений для данного приложения вы можете пропустить важную информацию и обновления.</string>
     <string name="app_notification_manager_title">Менеджер уведомлений</string>
     <string name="notificationbar_settings_title">Параметры строки уведомлений</string>
-    <string name="expanding_notificationbar_title">Распростр. на экран блокировки</string>
-    <string name="expanding_notificationbar_summary">Панель уведомлений может быть открыта в заблокированном состоянии</string>
+    <string name="expanding_notificationbar_title">Экран блокировки</string>
+    <string name="expanding_notificationbar_summary">Панель уведомлений можно открыть на экране блокировки</string>
     <string name="smart_roll">Смарт-ролл</string>
     <string name="swing_lock">Замок поворота</string>
-    <string name="dlg_batterydistinguish_title">внимание</string>
-    <string name="dlg_batterydistinguish_msg">ошибка батареи, зарядка не поддерживается</string>
-    <string name="dlg_batteryWarehouse_msg_supplying">батарея работает в режиме источника питания, USB хост</string>
-    <string name="dlg_batteryWarehouse_msg_nosupply">Устройство usb уже извлечено</string>
+    <string name="dlg_batterydistinguish_title">Внимание</string>
+    <string name="dlg_batterydistinguish_msg">Ошибка батареи, зарядка не возможна</string>
+    <string name="dlg_batteryWarehouse_msg_supplying">Батарея работает в режиме источника питания, USB-хост</string>
+    <string name="dlg_batteryWarehouse_msg_nosupply">Устройство USB уже извлечено</string>
     <string name="dlg_batteryWarehouse_msg_lowpower">Низкая мощностью устройства, отключите USB устройство для использования в обычном режиме</string>
     <string name="dlg_batteryWarehouse_bcheck_warning">Не показывать предупреждения в следующий раз</string>
     <string name="batteryWarehouse_notificaton_content">OTG подключено: %s</string>
     <string name="batteryWarehouse_open_usb_otg">Устройство USB уже подключено</string>
-    <string name="open_usb_otg_only_u_disk">В качестве OTG-накопителя разрешается использ. только диск U</string>
-    <string name="rotate_screen">Поворот экрана</string>
+    <string name="open_usb_otg_only_u_disk">В качестве OTG-накопителя можно использовать только U-диск</string>
+    <string name="rotate_screen">Вращение экрана</string>
     <string name="component">systemui</string>
     <string name="author">Xihuang Huang</string>
     <string name="app_name">По умолчанию</string>
@@ -438,9 +438,9 @@
     <string name="description_direction_down">Слайд вниз для %s.</string>
     <string name="description_direction_left">Слайд влево для %s.</string>
     <string name="description_direction_right">Слайд вправо для %s.</string>
-    <string name="lenovo_recents_memory_info_text">%1$sМб\u0009 доступно из %2$sГб RAM</string>
+    <string name="lenovo_recents_memory_info_text">%1$s МБ\u0009 ДОСТУПНО ИЗ %2$s ГБ RAM</string>
     <string name="lenovo_recents_clear_memory_toast_text">"Освобождено %1$sMб,
-%2$sМб доступно"</string>
+%2$sМб памяти доступно"</string>
     <string name="lenovo_recents_no_app_toast_test">"Память была оптимизирована, закрыты
 все запущенные приложения"</string>
     <string name="notification_quick_switch_settings">Быстрое переключение уведомлений</string>
