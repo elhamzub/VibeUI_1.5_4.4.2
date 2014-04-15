@@ -236,7 +236,7 @@
     <string name="scan_traffic_monitor_detail">Проверить программы доступа к личным данным</string>
     <string name="scan_virus">Антивирус:</string>
     <string name="set">Настройки</string>
-    <string name="traffic_monitor">Монитор трафика.</string>
+    <string name="traffic_monitor">Монитор трафика</string>
     <string name="uninstall">Удалить приложение</string>
     <string name="update_note_text">Эта операция будет использовать данные. Убедитесь, что вы исп. WiFi</string>
     <string name="virus_protect">Проверка на вирусы в режиме реального времени</string>
@@ -332,7 +332,7 @@
     <string name="new_use">Включено сейчас</string>
     <string name="next_step">Далее</string>
     <string name="no_browser">Загрузите и установите любой браузер для просмотра SECUREit</string>
-    <string name="no_health_check_2to7_day">Не проверялось: %1$d дн.</string>
+    <string name="no_health_check_2to7_day">Без проверки: %1$d дн.</string>
     <string name="no_health_check_9_day">Уже долго не проверялось</string>
     <string name="password_answer_no_null_text">Ответ не может быть пустым.</string>
     <string name="password_notice">Этот пароль используется для Сейфа, Анти-вора, Гостевого и Детского режимов, запомните его!</string>
