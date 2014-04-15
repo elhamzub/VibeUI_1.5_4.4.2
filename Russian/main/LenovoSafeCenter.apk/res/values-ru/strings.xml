@@ -240,7 +240,7 @@
     <string name="uninstall">Удалить приложение</string>
     <string name="update_note_text">Эта операция будет использовать данные. Убедитесь, что вы исп. WiFi</string>
     <string name="virus_protect">Проверка на вирусы в режиме реального времени</string>
-    <string name="virus_protecting">Антивирус работает.</string>
+    <string name="virus_protecting">Антивирус работает</string>
     <string name="safe_main_install">Установить</string>
     <string name="init_perm">Инициализация данных разрешения приложений</string>
     <string name="one_key_optimization">Оптимизировать</string>
@@ -464,7 +464,7 @@
     Значит соглашаемся."</string>
     <string name="permission_server_title">«Лицензионное соглашение»</string>
     <string name="enable_net_desc">Для защиты вашего телефона, SECUREit требуется подключение к сети, а плата взимается операторами.</string>
-    <string name="about_msg">Переведено Xakep. Для Lenovo-forums.ru.</string>
+    <string name="about_msg"> </string>
     <string name="amg_apkfile">АРК Менеджер</string>
     <string name="amg_title">"  Управление
 приложениями"</string>
@@ -1064,7 +1064,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="net_traffic_anto_deny_title">Сообщать о превышении</string>
     <string name="net_traffic_background_app_useage">Трафик в фоне: %1$s</string>
     <string name="net_traffic_check">Настройка объема трафика</string>
-    <string name="net_traffic_control">Монитор трафика.</string>
+    <string name="net_traffic_control">Монитор трафика</string>
     <string name="net_traffic_daily_detail_title">" Статистика"</string>
     <string name="net_traffic_daily_detail_title2">Ежедневное использование</string>
     <string name="net_traffic_daily_detail_title_app">Статистика использования мобильного интернета сегодня</string>
@@ -1407,10 +1407,10 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="dayly_tools">Дополнительные инструменты</string>
     <string name="ipset">IP-звонки</string>
     <string name="number_space">Справочник номеров</string>
-    <string name="opti_main_sys_exam">Системная информация</string>
+    <string name="opti_main_sys_exam">Информация</string>
     <string name="phoneinfo_number_search">Сaller ID</string>
-    <string name="safe_synchr">Secure Backup</string>
-    <string name="text_safepayment">Безопасные онлайн платежи</string>
+    <string name="safe_synchr">Бэкап</string>
+    <string name="text_safepayment">Онлайн покупки</string>
     <string name="ip_area_title">Данный аппарат относится к региону</string>
     <string name="ip_custom">Пользовательский</string>
     <string name="ip_number_title">Установить IP-номер</string>
