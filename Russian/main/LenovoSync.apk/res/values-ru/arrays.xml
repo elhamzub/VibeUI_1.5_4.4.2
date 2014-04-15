@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backupfrequency">
+        <item>Каждые 3 часа</item>
+        <item>Каждый день</item>
+        <item>Каждую неделю</item>
+        <item>Выключено</item>
+    </string-array>
+    <string-array name="backupfrequencyvalue">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="onekeySelectorValues">
+        <item>Контакты</item>
+        <item>Сообщения</item>
+        <item>Журналы вызовов</item>
+    </string-array>
+    <string-array name="app_backup_states">
+        <item>Ожидание</item>
+        <item>Резервирование</item>
+        <item>Зарезервировано</item>
+        <item>Ошибка</item>
+        <item>OK</item>
+        <item>OK</item>
+        <item>Отменено</item>
+        <item>OK</item>
+    </string-array>
+    <string-array name="app_regain_states">
+        <item>Ожидание</item>
+        <item>Загрузка</item>
+        <item>Удалить</item>
+        <item>Ошибка</item>
+        <item>Обновление</item>
+        <item>Установлен</item>
+        <item>Отменен</item>
+        <item>Установка</item>
+    </string-array>
+    <string-array name="sync_operation_items">
+        <item>Сохранить контакты телефона</item>
+        <item>Объединение контактов</item>
+        <item>Сохранить онлайн контакты</item>
+    </string-array>
+    <string-array name="sync_operation_items_local">
+        <item>Сохранить контакты телефона</item>
+        <item>Сохранить онлайн контакты</item>
+    </string-array>
+    <string-array name="sync_operation_items_cloud">
+        <item>Сохранить контакты телефона</item>
+        <item>Сохранить онлайн контакты</item>
+    </string-array>
+    <string-array name="frequency_question">
+        <item>What’s the default password of SYNCit? Then how to change the password ? What should I do if I forget my password?</item>
+        <item>Does SYNCit charge?</item>
+        <item>What is contact-sync?</item>
+        <item>Why does my contacts reduce after synchronization?</item>
+        <item>How to manage my backup data when I have backed up completely?</item>
+        <item>Is SYNCit safe? Will it steal my telephone number or my backup data?</item>
+        <item>How to log out?</item>
+        <item>How to restore my contacts if I have deleted them by mistake?</item>
+        <item>My phone is not made by Lenovo. Can I use SYNCit?</item>
+        <item>Does SYNCit support other platform?</item>
+    </string-array>
+    <string-array name="frequency_answer">
+        <item>"Default Password: You will get a message from Lenovo after your phone automatically registers and logins the SYNCit. Please check whether the kind of Security Software(as 360se and so on) obstructs the message or not in case of you don’t get it for a long time. If you lose the message or never get it, please refer to Forget My Password. 
+
+Change My Password: Visit the website http://cloud.lenovo.com with PC and login. Then go to change. 
+
+Forget My Password: Click the [More] at the upper-left corner in the SYNCit. Then choose the [ID Setting].If you have been logined, please log out. Then click the [Forget Password]."</item>
+        <item>SYNCit is a free mobile APP. But the network traffic cost which is produced by loading and using will be charged by operators.</item>
+        <item>Keep the local and cloud in same. Ensure the contact not lost.</item>
+        <item>SYNCit will automatically merge the reduplicated contacts in your phone.</item>
+        <item>Visit the website http://cloud.lenovo.com with PC and login. Then you can operate what data you have backed up, such as delete, modify, add etc.</item>
+        <item>SYNCit stores user’s information in the way of online banking-level encryption. It can definitely keep the personal data and information security and they will never be leaked.</item>
+        <item>Click the [More] at the upper-left corner. Then choose the [ID Setting] . Click the [Settings] at the upper-right corner or click the menu key and click the [Log Out].</item>
+        <item>If you delete the contacts, once sync contacts, you can try [Recover] through your phone or visit the website http://cloud.lenovo.com and login by PC.</item>
+        <item>Of course you can. If your phone’s system is one of the followings: android, iOS, Symbian or supporting java, you can find the match version to use.</item>
+        <item>Yes, it supports Symbian, iOS, Android and Java platform.</item>
+    </string-array>
+    <string-array name="menu_main_txt">
+        <item>Контакт</item>
+        <item>SMS</item>
+        <item>Фото</item>
+        <item>App Data</item>
+        <item>App</item>
+        <item>Doc</item>
+        <item>MMS</item>
+        <item>Call log</item>
+    </string-array>
+</resources>

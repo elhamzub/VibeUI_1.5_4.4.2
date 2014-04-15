@@ -2,9 +2,9 @@
 <resources>
     <string-array name="lenovo_signal_text_list">
         <item>"Уровень сигнала
-Слабый     "</item>
+Очень Слабый     "</item>
         <item>"Уровень сигнала
-Так себе     "</item>
+Слабый     "</item>
         <item>"Уровень сигнала
 Средний   "</item>
         <item>"Уровень сигнала
