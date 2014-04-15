@@ -387,7 +387,7 @@
     <string name="app_notification_manager_title">Менеджер уведомлений</string>
     <string name="notificationbar_settings_title">Параметры строки уведомлений</string>
     <string name="expanding_notificationbar_title">Распростр. на экран блокировки</string>
-    <string name="expanding_notificationbar_summary">Эта функция работает лишь на незащищенном экране блокировки</string>
+    <string name="expanding_notificationbar_summary">Панель уведомлений может быть открыта в заблокированном состоянии</string>
     <string name="smart_roll">Смарт-ролл</string>
     <string name="swing_lock">Замок поворота</string>
     <string name="dlg_batterydistinguish_title">внимание</string>
@@ -438,10 +438,10 @@
     <string name="description_direction_down">Слайд вниз для %s.</string>
     <string name="description_direction_left">Слайд влево для %s.</string>
     <string name="description_direction_right">Слайд вправо для %s.</string>
-    <string name="lenovo_recents_memory_info_text">%1$sM\u0009can занято/%2$s</string>
-    <string name="lenovo_recents_clear_memory_toast_text">"Освобождено %1$sM памяти
-Теперь свободно %2$sM"</string>
-    <string name="lenovo_recents_no_app_toast_test">"AM был оптимизирован, прибиты
+    <string name="lenovo_recents_memory_info_text">%1$sМб\u0009 доступно из %2$sГб RAM</string>
+    <string name="lenovo_recents_clear_memory_toast_text">"Освобождено %1$sMб,
+%2$sМб доступно"</string>
+    <string name="lenovo_recents_no_app_toast_test">"Память была оптимизирована, закрыты
 все запущенные приложения"</string>
     <string name="notification_quick_switch_settings">Быстрое переключение уведомлений</string>
     <string name="statusbar_notification">Строка состояния</string>
@@ -467,31 +467,31 @@
     <string name="network_speed_refresh_time_interval_title">Интервал обновления показа скорости сети</string>
     <string name="network_speed_refresh_time_interval_summary">Каждые %1$s сек</string>
     <string name="screenshot_success_no_notification_title">Нет уведомлений для скриншотов</string>
-    <string name="lenovo_show_wlan_status_top_remind_title">напоминалка о состоянии WLAN</string>
+    <string name="lenovo_show_wlan_status_top_remind_title">Напоминание состояния Wi-Fi</string>
     <string name="folding_notificationbar_after_clicked_title">Свернуть панель после нажатия</string>
-    <string name="expanding_notificationbar">Расширение панели уведомлений</string>
+    <string name="expanding_notificationbar">Открывать на экране блокировки</string>
     <string name="about_notification_center">О центре уведомлений</string>
     <string name="version_information_title">Информация о версии</string>
     <string name="lenovo_theme">Темы</string>
     <string name="lenovo_theme_settings">Выбор тем</string>
     <string name="lenovo_theme_classics">По умолчанию</string>
     <string name="lenovo_recents_task_introduce1">"Вверх слайд
-Delete"</string>
+Удалить"</string>
     <string name="lenovo_recents_task_introduce2">"Вниз слайд
-Lock"</string>
+Блокировать"</string>
     <string name="lenovo_status_bar_switch_introduce">"Слайд в лево и право
 Более быстрый переключатель"</string>
-    <string name="lenovo_status_bar_switch_long_click_introduce">Долгое нажмите для установки переключателя</string>
+    <string name="lenovo_status_bar_switch_long_click_introduce">Долгое удержание для установки переключателя</string>
     <string name="lenovo_status_bar_all_switch_introduce">"Нажмите здесь
 введите параметры центра уведомлений"</string>
-    <string name="lenovo_notification_clear_gps_text">Close GPS</string>
+    <string name="lenovo_notification_clear_gps_text">Выключить GPS</string>
     <string name="lenovo_low_battery_warning_title_text">Напоминания центра уведомлений</string>
     <string name="lenovo_low_battery_warning_shut_down_text">Выключение питания</string>
     <string name="lenovo_wifi_connecting_text">Получение IP-адреса</string>
     <string name="lenovo_wifi_disconnecting_text">Отключение</string>
     <string name="lenovo_wifi_connected_text">Подключен</string>
     <string name="lenovo_wifi_disconnected_text">Отключен</string>
-    <string name="lenovo_wifi_disconnected_low_signal_text">"Сигнал дерьмовенький
+    <string name="lenovo_wifi_disconnected_low_signal_text">"Слабый сигнал
 Отключено"</string>
     <string name="lenovo_low_memory_warning_text">Мало места для хранения, попробуйте еще раз после освобождения!</string>
     <string name="lenovo_usb_mode_warning_text">USB открыт, закройте немедленно!</string>
@@ -501,9 +501,9 @@ Lock"</string>
     <string name="lenovo_status_bar_sim_name">Имя оператора：%s</string>
     <string name="lenovo_status_bar_wifi_name">Подключен к：%s</string>
     <string name="lenovo_status_bar_wifi_signal_name">Уровень сигнала：%d</string>
-    <string name="lenovo_status_bar_network_speed_name">Network speed：%s</string>
+    <string name="lenovo_status_bar_network_speed_name">Скорость сети：%s</string>
     <string name="lenovo_status_bar_network_speed_date_name">Режим сети：%s</string>
-    <string name="lenovo_status_bar_bluetooth_state_open">Bluetooth открыт</string>
+    <string name="lenovo_status_bar_bluetooth_state_open">Bluetooth включен</string>
     <string name="lenovo_status_bar_bluetooth_scan_mode_connectable">Не видимым другим устройствам Bluetooth</string>
     <string name="lenovo_status_bar_bluetooth_scan_mode_connectable_2">Видим только подключенным устройствам</string>
     <string name="lenovo_status_bar_bluetooth_scan_mode_connectable_discoverable">Видимый для всех соседних устройств Bluetooth</string>
