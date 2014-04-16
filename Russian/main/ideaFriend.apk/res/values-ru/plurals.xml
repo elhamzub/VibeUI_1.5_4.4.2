@@ -69,8 +69,8 @@
         <item quantity="other">Контактов: %1$s</item>
     </plurals>
     <plurals name="read_report_toast_msg">
-        <item quantity="other">отправка %d отч. о прочтении</item>
-        <item quantity="one">отправка %d отчета о прочтении</item>
+        <item quantity="other">Отправка %d отчёта о прочтении</item>
+        <item quantity="one">Отправка %d отчёта о прочтении</item>
     </plurals>
     <plurals name="message_view_selected_message_count">
         <item quantity="other">Выбрано: %d</item>
