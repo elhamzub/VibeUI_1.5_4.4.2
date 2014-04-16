@@ -310,7 +310,7 @@
     <string name="audio_profile_slot_2">SIM 2</string>
     <string name="common_setings_title">Общие параметры</string>
     <string name="character_setings_title">Особые</string>
-    <string name="all_setings_title">Все настройки</string>
+    <string name="all_setings_title">Настройки</string>
     <string name="header_category_bodygestures_sensor">Датчики и жесты</string>
     <string name="header_category_intelligent_voice">Intelligent_voice</string>
     <string name="header_category_other">Прочее</string>
