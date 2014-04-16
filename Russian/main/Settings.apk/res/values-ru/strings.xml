@@ -2798,12 +2798,12 @@
     <string name="autopop_warning_message">Снимите галочку с данного элемента, чтобы окно не показывалось при последующих подключениях телефона к компьютеру. Чтобы зайти в это окно, щелкните системное оповещение.</string>
     <string name="version_info">Информация о версиях</string>
     <string name="safety_information">Информация по безопасности</string>
-    <string name="safety_information_content">Вы используете эту кастомную прошивку на свой страх и риск. Но если вы все-таки угробите телефон, сервис Lenovo с радостью заработает на Вас денег за его восстановление!</string>
-    <string name="server_lenovo_exp_dlg_title">Предепреждение</string>
+    <string name="safety_information_content">"Если вы хотите обновить систему своего телефона, пожалуйста свяжитесь с официальной сетью послепродажного обслуживания Lenovo или используйте функцию обновления системы в телефонах Lenovo. В противном случае это может привести к сбою устройства или потери данных, также может разрушить функцию безопасности системы и нанести риск безопасности."</string>
+    <string name="server_lenovo_exp_dlg_title">Предупреждение</string>
     <string name="server_lenovo_exp_title">Участвовать в программе улучшения</string>
     <string name="server_lenovo_exp_summery">Сбор данных для улучшения нашей продукции и услуг. Некоторые приложения могут использовать сеть и генерить трафик.</string>
     <string name="server_lenovo_exp_hyperlink_text">Узнать больше</string>
-    <string name="server_lenovo_exp_dialogmsg">Отменить Lenovo опыт программ, будет причиной некоторые приложения не работают правильно и снижения продукции услуг и программ, убедитесь, что вы отменить?</string>
+    <string name="server_lenovo_exp_dialogmsg">Отказ от программы развития Lenovo, может привести к не правильной работе некоторых приложений и снижению качества продукции, услуг и программ. Уверены, что хотите отказаться?</string>
     <string name="server_lenovo_exp_ok">OK</string>
     <string name="server_lenovo_exp_cancel">Отмена</string>
     <string name="lenovo_system_update">Обновление системы</string>

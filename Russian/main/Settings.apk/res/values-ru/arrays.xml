@@ -464,4 +464,14 @@
         <item>Жёлтое на синем</item>
         <item>Пользовательские</item>
     </string-array>
+	<string-array name="special_locale_codes">
+        <item>zh_CN</item>
+        <item>zh_TW</item>
+		<item>ru</item>
+    </string-array>
+    <string-array name="special_locale_names">
+        <item>Китайский (упр.)</item>
+        <item>Китайский (трад.)</item>
+		<item>Русский</item>
+    </string-array>
 </resources>
