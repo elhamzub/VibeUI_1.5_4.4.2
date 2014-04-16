@@ -206,7 +206,7 @@
     <string-array name="captioning_typeface_selector_titles">
         <item>По умолчанию</item>
         <item>Sans-serif</item>
-        <item>Sans-serif condensed</item>
+        <item>Sans-serif Плотный</item>
         <item>Serif</item>
         <item>Monospace</item>
     </string-array>
@@ -279,45 +279,21 @@
         <item>1920x1080/320,secure</item>
         <item>1280x720/213;1920x1080/320</item>
     </string-array>
-    <string-array name="enable_opengl_traces_entries">
-        <item>Сеть не выбрана</item>
-        <item>Logcat</item>
-        <item>Systrace (графика)</item>
-        <item>Список вызовов в glGetError</item>
-    </string-array>
     <string-array name="show_non_rect_clip_entries">
-        <item>Выкл</item>
-        <item>Draw non-rectangular clip region in blue</item>
-        <item>Highlight tested drawing commands in green</item>
+        <item>Выключено</item>
+        <item>ОТрисовка непрямоугольных областей в голубом</item>
+        <item>Подсвечивать тестируемые команды отрисовки в зелёном</item>
     </string-array>
     <string-array name="show_non_rect_clip_values">
-        <item>hide</item>
-        <item>region</item>
-        <item>highlight</item>
-    </string-array>
-    <string-array name="track_frame_time_entries">
-        <item>Off</item>
-        <item>On screen as bars</item>
-        <item>On screen as lines</item>
-        <item>In adb shell dumpsys gfxinfo</item>
-    </string-array>
-    <string-array name="track_frame_time_values">
-        <item>false</item>
-        <item>visual_bars</item>
-        <item>visual_lines</item>
-        <item>true</item>
+        <item>Скрыть</item>
+        <item>Регион</item>
+        <item>Подвечивать</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
-        <item>Off</item>
-        <item>Show overdraw areas</item>
-        <item>Show areas for Deuteranomaly</item>
-        <item>Show overdraw counter</item>
-    </string-array>
-    <string-array name="debug_hw_overdraw_values">
-        <item>false</item>
-        <item>show</item>
-        <item>show_deuteranomaly</item>
-        <item>count</item>
+        <item>Выключено</item>
+        <item>Показ количества отрисовываемых объектов области</item>
+        <item>Показать областей для Deuteranomaly</item>
+        <item>Показать счетчик количества отрисовываемых объектов</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Стандартное ограничение</item>
@@ -374,9 +350,9 @@
         <item>Отключено</item>
     </string-array>
     <string-array name="entries_button_brightness">
-        <item>Открыть</item>
-        <item>На 3 сек.</item>
-        <item>Закрыть</item>
+        <item>Выключена</item>
+        <item>На 3 секунды</item>
+        <item>Выключена</item>
     </string-array>
     <string-array name="softspacename">
         <item>Выбор системы</item>
@@ -464,4 +440,28 @@
         <item>SIM</item>
         <item>@string/passpoint_certificate</item>
     </array>
+	<string-array name="select_runtime_summaries">
+        <item>Использовать Dalvik</item>
+        <item>Использовать ART</item>
+        <item>Использовать ART (Версия для обработки ошибок)</item>
+    </string-array>
+	<string-array name="track_frame_time_entries">
+        <item>Выключено</item>
+        <item>На экране как бары</item>
+        <item>На экране как линии</item>
+        <item>Измерение времени для adb shell dumpsys gfxinfo</item>
+    </string-array>
+	<string-array name="enable_opengl_traces_entries">
+        <item>Выключено</item>
+        <item>Logcat</item>
+        <item>Systrace (Графика)</item>
+        <item>Список вызовов в glGetError</item>
+    </string-array>
+	<string-array name="captioning_preset_selector_titles">
+        <item>Белое на чёрном</item>
+        <item>Чёрное на белом</item>
+        <item>Жёлтое на чёрном</item>
+        <item>Жёлтое на синем</item>
+        <item>Пользовательские</item>
+    </string-array>
 </resources>
