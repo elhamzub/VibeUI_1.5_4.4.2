@@ -27,7 +27,7 @@
     <string name="sendsms_no_service">Услуга SMS недоступна</string>
     <string name="simSerialNumber_changed">На ваш телефон была установлена неизвестная SIM-карта и телефон был заблокирован. Можно отправить следующие удаленные команды:</string>
     <string name="sms_content_11">Я</string>
-    <string name="sms_content_22">Связь отсутствует, SIM-карта была изменена. Свяжитесь с хозяином телефона, чтобы восстановить телефон. Спасибо! - </string>
+    <string name="sms_content_22">Связь отсутствует, SIM-карта была изменена. Свяжитесь с хозяином телефона, чтобы восстановить телефон. Спасибо! -</string>
     <string name="allow">Вкл</string>
     <string name="net_correct_fail">Сбой калибровки, поставщик услуг возможно отключил службы запроса данных</string>
     <string name="net_error_code">Запрос информации о конфигурации</string>
@@ -257,7 +257,6 @@
     <string name="sign_call_lab_updated_text">Обновление базы данных тегов завершено.</string>
     <string name="sign_call_lab_update_newest_text">База данных тегов не требует обновления</string>
     <string name="sign_call_lab_update_neterror_text">При обновлении базы данных тегов возникла ошибка сети</string>
-    <string name="detail_num_virus">%1$d вирусов обнаружено</string>
     <string name="permission_contract">Программа по улучшению квалификации пользователя SECUREit</string>
     <string name="permission_server">«Лицензионное соглашение»</string>
     <string name="safecenter">SECUREit</string>
@@ -300,7 +299,7 @@
     <string name="download_app_lock_sync4">Защита приложений паролем</string>
     <string name="email_text">Email</string>
     <string name="error_diff">Введенные пароли не совпадают. Повторите ввод.</string>
-    <string name="first_checkup">Еще не разу не выполнялась!</string>
+    <string name="first_checkup">Без проверки!</string>
     <string name="first_pwd_error_insuff">Примечание. Первый введенный пароль не содержит шесть цифр, введите снова!</string>
     <string name="get_error">Сбой доступа</string>
     <string name="go_">Ввод</string>
@@ -308,13 +307,13 @@
     <string name="harass_lab_version">Версия БД спама:</string>
     <string name="has_lab_update_note_message">Доступна новая версия %1$s. Обновить сейчас?</string>
     <string name="has_new_update_note_text">Доступна новая версия.</string>
-    <string name="health_can_optimization100">"%1$d балла
+    <string name="health_can_optimization100">"%1$d Баллов
 Отлично!"</string>
-    <string name="health_can_optimization59">"%1$d балла!
+    <string name="health_can_optimization59">"Баллов:%1$d
 Ужасно!"</string>
-    <string name="health_can_optimization60_84">"%1$d балла
+    <string name="health_can_optimization60_84">"Баллов:%1$d
 Плохо!"</string>
-    <string name="health_can_optimization85_99">"%1$d балла
+    <string name="health_can_optimization85_99">"Баллов:%1$d
 Нормально!"</string>
     <string name="health_check_but_no_optimiza">Все еще %1$d баллов, оптимизация не выполнена!</string>
     <string name="health_optimize_nofinished">Оптимизация еще не закончена</string>
@@ -464,7 +463,7 @@
     Значит соглашаемся."</string>
     <string name="permission_server_title">«Лицензионное соглашение»</string>
     <string name="enable_net_desc">Для защиты вашего телефона, SECUREit требуется подключение к сети, а плата взимается операторами.</string>
-    <string name="about_msg"> </string>
+    <string name="about_msg" />
     <string name="amg_apkfile">АРК Менеджер</string>
     <string name="amg_title">"  Управление
 приложениями"</string>
@@ -494,14 +493,14 @@
     <string name="move_succeeded">%1$s приложение(й) успешно перемещено.</string>
     <string name="move_to_phone">В телефон</string>
     <string name="move_to_sd">На SD-карту</string>
-    <string name="moving">Перемещение: </string>
+    <string name="moving">Перемещение:</string>
     <string name="no_move_phone_app">На SD-карте нет установленных приложений, которые могут быть перемещены в память телефона</string>
     <string name="no_move_sd_app">Нет приложений, которые можно переместить на SD-карту</string>
     <string name="no_optimize_app">Не найдены приложения, которые могут быть удалены</string>
     <string name="no_regain_app">Приложение не найдено в поисковых системах</string>
     <string name="no_sdcard">Нет SD-карты</string>
     <string name="no_uninstall_app">Не найдены приложения, которые могут быть удалены</string>
-    <string name="phone_available">Свободно: %1$s </string>
+    <string name="phone_available">Свободно: %1$s</string>
     <string name="phone_no_move">Не перемещая приложения</string>
     <string name="phone_no_move_">Хранение данных и внутренних данных той же области памяти, не перемещая</string>
     <string name="recycle_bin">Корзина</string>
@@ -634,8 +633,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="lock_screen_ok">Телефон заблокирован</string>
     <string name="distant_com">"Анти-вор: Ваш номер зарегистрирован как командное устройство удаленного управления с защитой от кражи SECUREit. На утерянный телефон можно отправить команду с помощью этих кодов.
  Содержимое кодов:"</string>
-    <string name="prompt_content">\"Анти-вор инструкция: С любого телефона, вы можете посылать команды анти-вора для уменьшения потерь.
-Команды: Пароль#код операции. Резервное копирование данных, код: BF. Удаление данных, код: XH. Блокировка, код: SD. Доступ, код: DW. Сигнализация, код: BJ--SECUREit \".</string>
+    <string name="prompt_content">\"Анти-вор инструкция: С любого телефона, вы можете посылать команды анти-вора для уменьшения потерь. Команды: Пароль#код операции. Резервное копирование данных, код: BF. Удаление данных, код: XH. Блокировка, код: SD. Доступ, код: DW. Сигнализация, код: BJ--SECUREit \".</string>
     <string name="call_user">Здравствуйте, я нашел телефон, который настроил свой номер как номер экстренной службы. Пожалуйста, позвоните мне как можно скорее - SECUREit.</string>
     <string name="takepicture">"Ваш телефон был заблокирован. И кто то попытался открыть его без вашего пароля. %1s
 Откройте ссылку выше, чтобы увидеть фотографию, сделанную вашим телефон фронтальной камерой, которая может быть полезна для вас -. SECUREit "</string>
@@ -672,8 +670,8 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="antithief_settings_change_sim">Отправка SMS при изменении</string>
     <string name="antithief_settings_backup_to_mail">Резервное копирование данных на почтовый ящик</string>
     <string name="antithief_set_mail">Настройка резервного копирования данных</string>
-    <string name="antithief_no_set_mail">"Не установлено резервное копирование данных на почтовый ящик"</string>
-    <string name="antithief_no_set_number">"Не установлен безопасный номер мобильного телефона"</string>
+    <string name="antithief_no_set_mail">Не установлено резервное копирование данных на почтовый ящик</string>
+    <string name="antithief_no_set_number">Не установлен безопасный номер мобильного телефона</string>
     <string name="antithief_settings_backup_prompt">Резервное копирование команды Анти-вора</string>
     <string name="input_phone_number">Введите номер телефона</string>
     <string name="antithief_input_password">Введите пароль</string>
@@ -702,7 +700,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
 3 Если ваш телефон отсутствует, и ваш SIM-карта была изменена, SECUREit пошлет SMS, в котором содержится новый номер SIM-карты, на ваш экстренной связи. Вы можете посылать команды противоугонные на новый номер SIM-карты, чтобы избежать конфиденциальность утечки "</string>
     <string name="sms_content_1">Да, я</string>
     <string name="sms_content_2">Мой телефон потерян, и SIM-карта была заменена. Пожалуйста, свяжитесь с этот номер, чтобы помочь мне восстановить мой телефон. Спасибо!</string>
-    <string name="antithief_no_set">"Не установлено"</string>
+    <string name="antithief_no_set">Не установлено</string>
     <string name="open_sucess">Поздравляем! Вы включили Анти-вор!</string>
     <string name="n1">1</string>
     <string name="n2">2</string>
@@ -960,7 +958,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="sysclear_no_opti_autorun">Нет приложений в автозапуске</string>
     <string name="sysclear_no_opti_cache">Нет кэш файла</string>
     <string name="sysclear_opti_item_list">Оптимизированные элементы</string>
-    <string name="sysclear_opti_one_btn">Оптимизировать</string>
+    <string name="sysclear_opti_one_btn">Оптимизация</string>
     <string name="sysclear_scan_finish">Готово</string>
     <string name="sysclear_scanning">Сканирование…</string>
     <string name="sysclear_scan_comment">Оптимизировать сейчас</string>
@@ -1181,7 +1179,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="install_fail">Установка не удалась.</string>
     <string name="installing">Установка…</string>
     <string name="install_success">Установка выполнена успешно.</string>
-    <string name="no_premit">"Это приложение не относится к разрешенным"</string>
+    <string name="no_premit">Это приложение не относится к разрешенным</string>
     <string name="pass_antivirus">SECUREit не обнаружил вирусов</string>
     <string name="permission_control">Защита приватности</string>
     <string name="prase_error">Не в состоянии решить</string>
@@ -1190,8 +1188,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="privacy_history">Internet Сookies,</string>
     <string name="privacy_schedule">Расписание,</string>
     <string name="privacy_sms">SMS,</string>
-    <string name="replace_tip">\"Это приложение заменит другое приложение.
-Система сохранит все ваши предыдущие данные \".</string>
+    <string name="replace_tip">\"Это приложение заменит другое приложение. Система сохранит все ваши предыдущие данные \".</string>
     <string name="replace_tip_title">Вы уверены, что хотите заменить приложение?</string>
     <string name="safe_tip">"Запретить %1$s %2$s
 Вы можете снова включить %3$s из SECUREit "</string>
@@ -1229,9 +1226,9 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="perm_wsms">Записывать сообщения в папке Входящие</string>
     <string name="perm_rcalllogs">Чтение журнала звонков</string>
     <string name="perm_rcontact">Доступ к контактам</string>
-    <string name="safe_defense_allow">""</string>
-    <string name="safe_defense_deny">""</string>
-    <string name="safe_defense_notify">""</string>
+    <string name="safe_defense_allow" />
+    <string name="safe_defense_deny" />
+    <string name="safe_defense_notify" />
     <string name="lesafe_pwd">Пароль</string>
     <string name="input_password_answer_right">Ответ правельный, можете изменить пароль.</string>
     <string name="callings">Вызовы</string>
@@ -1253,8 +1250,8 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="sms_month_warm_text">Напомнить о лимите</string>
     <string name="no_sms_package">Пакеты SMS не настроены</string>
     <string name="thismonth_send_sms_num">Отправлено</string>
-    <string name="answer_call">Принятых </string>
-    <string name="outgoing_call">Вызовов </string>
+    <string name="answer_call">Принятых</string>
+    <string name="outgoing_call">Вызовов</string>
     <string name="article">SMS</string>
     <string name="minute">минуты</string>
     <string name="input_sms_month_num_text">Установить месячный лимит SMS</string>
@@ -1301,7 +1298,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="permission_notice_intercep_hadupload_log">Отчет об этом уже отправлен</string>
     <string name="permission_notice_intercep_neterror">Сеть недоступна</string>
     <string name="permission_notice_intercep_net_unavilable">Сеть недоступна</string>
-    <string name="permission_notice_intercep_ignore_current_setting">"Не замечать больше"</string>
+    <string name="permission_notice_intercep_ignore_current_setting">Не замечать больше</string>
     <string name="permission_notice_intercep_remenber">Запомнить выбор</string>
     <string name="permission_notice_intercep_cancel">отмена(%1$ds)</string>
     <string name="permission_notice_intercep_deny">Запретить(%1$ds)</string>
@@ -1321,39 +1318,19 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="perm_camera">Использование камеры</string>
     <string name="perm_wcontact">изменение контактов</string>
     <string name="location">Мое местоположение</string>
-    <string name="permission_perm_calendar">Просмотр календаря</string>
-    <string name="permission_perm_call">Вызововы </string>
-    <string name="permission_perm_history">Просмотр cookies браузера и закладки</string>
     <string name="perm_internet">Доступ в Интернет</string>
     <string name="permission_perm_privacy_info">Получить информацию</string>
-    <string name="permission_perm_rcalllogs">Просмотр журнала вызовов</string>
-    <string name="permission_perm_rcontact">Просмотр контактов</string>
     <string name="permission_perm_rcontacts">просмотр контактов и журнала вызовов</string>
-    <string name="permission_perm_rsms">Читать SMS</string>
-    <string name="permission_perm_send_sms">Отправлять SMS</string>
     <string name="permission_perm_tap_calling">Камера и рекордер</string>
-    <string name="permission_perm_wsms">написать сообщение</string>
-    <string name="permission_perm_readmms">Читать MMS</string>
     <string name="permission_time_d">День</string>
     <string name="permission_time_m">Месяц</string>
     <string name="permission_get_contact">просмотр контактов</string>
-    <string name="permission_edit_contact">изменить контакты</string>
     <string name="permission_get_calllog">просмотр журнала вызовов</string>
-    <string name="permission_edit_calllog">изменить журнал вызовов</string>
     <string name="permission_sms">SMS</string>
     <string name="permission_get_sms">читать сообщения</string>
     <string name="permission_edit_sms">изменять сообщения</string>
     <string name="permission_record">устройство записи</string>
     <string name="permission_camera">Камера</string>
-    <string name="permission_perm_sendmms">Отправлять MMS</string>
-    <string name="permission_perm_open_3g">включать 2G/3G</string>
-    <string name="permission_perm_open_wifi">включать WLAN</string>
-    <string name="permission_perm_open_bluetooth">включать Bluetooth</string>
-    <string name="permission_location">Мое местоположение</string>
-    <string name="permission_install_perm_loc">местоположение телефона</string>
-    <string name="permission_install_perm_record">открыть диктофон</string>
-    <string name="permission_install_perm_camera">открыть камеру</string>
-    <string name="permission_perm_send_mms">отправить SMS</string>
     <string name="permission_navigator_open_recording">Открывать диктофон</string>
     <string name="permission_navigator_open_camera">Открывать камеру</string>
     <string name="permission_navigator_rcalllogs">Просмотр журнала вызовов</string>
@@ -1373,6 +1350,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="permission_navigator_get_loc">Местоположение телефона</string>
     <string name="permission_navigator_make_call">Совершать звонки</string>
     <string name="permission_navigator_readmms">Читать MMS</string>
+    <string name="permission_location">Мое местоположение</string>
     <string name="inputmethodswitch">Включена защита ввода паролей</string>
     <string name="intel_cpu">Intel(R) Atom(TM)</string>
     <string name="network_type">Тип сети:</string>
@@ -1737,10 +1715,13 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="add">Добавить</string>
     <string name="hand_name_hit">Советы</string>
     <string name="hand_number_hit">Номер</string>
-    <string name="private_title">"Защита вашей приватности…"</string>
+    <string name="private_title">Защита вашей приватности…</string>
     <string name="replay_sms_card2">"SIM2 "</string>
     <string name="send_smshint">Введите ответ</string>
     <string name="pwd_error">Неправельный пароль.</string>
+    <string name="notfication_scan_result_tickle">SECUREit заблокировал %1$s раз появление рекламы.</string>
+    <string name="notification_ad_insert_notify">Хотя SECUREit отклонило %1$s объявлений панели уведомлений</string>
+    <string name="notification_intercept_notify_str">Перехвачено %1$s сообщений в панели уведомлений.</string>
     <string name="perm_privacy_info">Получение персональной иформации</string>
     <string name="perm_tap_calling">Фотографирование/видеозапись</string>
     <string name="time_d">День</string>
@@ -1776,9 +1757,6 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="antivirusvirus_notifycontent">%1$s является вредоносной программой. Рекомендуеться удалить.</string>
     <string name="net_notavilable">Служба SMS недоступна</string>
     <string name="sendsms_success">SMS отправлено</string>
-    <string name="notfication_scan_result_tickle">SECUREit заблокировал %1$s раз появление рекламы.</string>
-    <string name="notification_ad_insert_notify">Хотя SECUREit отклонило %1$s объявлений панели уведомлений</string>
-    <string name="notification_intercept_notify_str">Перехвачено %1$s сообщений в панели уведомлений.</string>
     <string name="no">Нет</string>
     <string name="yes">Да</string>
     <string name="antispamlocalblack_becall">[входящие]</string>
@@ -1792,18 +1770,14 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="auto_update_mode4">Выключено</string>
     <string name="btn_OK">OK</string>
     <string name="cancel">Отмена</string>
-    <string name="cell_location">\"SECUREit Анти-вор напоминает вам:
-Ваш потерянный телефон находиться в районе базовой станции:
-    &lt;string name=\"check_traffic_input_num_error\"&gt;Введите правельное значение.</string>
+    <string name="cell_location">\"SECUREit Анти-вор напоминает вам: Ваш потерянный телефон находиться в районе базовой станции: &lt;string name=\"check_traffic_input_num_error\">Введите правельное значение.</string>
     <string name="check_traffic_input_num_error">Please enter the right number</string>
     <string name="click_line">"
 Click the link below to see your location:
 "</string>
     <string name="comma">，</string>
     <string name="cur_lat_lon">Текушие координаты телефона:</string>
-    <string name="cur_location">\"SECUREit Анти-вор напоминает вам:
-Примерное расположение вашего потерянного телефона:
-    &lt;string name=\"curr_month_sms_out_limit_warm_text\"&gt;Обратите внимание, что исп. SMS в этом месяце превышает квоту</string>
+    <string name="cur_location">\"SECUREit Анти-вор напоминает вам: Примерное расположение вашего потерянного телефона: &lt;string name=\"curr_month_sms_out_limit_warm_text\">Обратите внимание, что исп. SMS в этом месяце превышает квоту</string>
     <string name="curr_month_sms_out_limit_warm_text">Warning: your messages usage has exceeded the limit</string>
     <string name="data_usage_uninstalled_apps">Удаленные приложения</string>
     <string name="date">Дата:</string>
@@ -1820,9 +1794,7 @@ Click the link below to see your location:
     <string name="installing_pleasewait_text">Выполняеться установка, подождите…</string>
     <string name="intercept">Недавно заблокированые</string>
     <string name="kidmode_disable">Родительский контроль не включен, необходимо проверить причину</string>
-    <string name="lat_and_lon">\"SECUREit Анти-вор напоминает вам:
-Текущие координаты вашего потерянного телефона:
-    &lt;string name=\"le_anti_virus\"&gt;SECUREit.Сканирование и удаление вируса</string>
+    <string name="lat_and_lon">\"SECUREit Анти-вор напоминает вам: Текущие координаты вашего потерянного телефона: &lt;string name=\"le_anti_virus\">SECUREit.Сканирование и удаление вируса</string>
     <string name="le_anti_virus">SECUREit.Anti-virus</string>
     <string name="le_battery_disable">Не возможно запустить Lenovo Power Master, скорее всего отключен в системе</string>
     <string name="lecloud_disable">Ошибка запуска Lenovo Sync, возможно приложение отключено в системе</string>
@@ -1923,4 +1895,24 @@ Click the link below to see your location:
     <string name="net_traffic_call_phone">Запрос использования трафика</string>
     <string name="one_key_widget_clean">Очистить</string>
     <string name="autorun_dialog_never_dialog">Никогда не запрашивать</string>
+    <string name="detail_num_virus">%1$d вирусов обнаружено</string>
+    <string name="permission_perm_calendar">Просмотр календаря</string>
+    <string name="permission_perm_call">Вызововы</string>
+    <string name="permission_perm_history">Просмотр cookies браузера и закладки</string>
+    <string name="permission_perm_rcalllogs">Просмотр журнала вызовов</string>
+    <string name="permission_perm_rcontact">Просмотр контактов</string>
+    <string name="permission_perm_rsms">Читать SMS</string>
+    <string name="permission_perm_send_sms">Отправлять SMS</string>
+    <string name="permission_perm_wsms">написать сообщение</string>
+    <string name="permission_perm_readmms">Читать MMS</string>
+    <string name="permission_edit_contact">изменить контакты</string>
+    <string name="permission_edit_calllog">изменить журнал вызовов</string>
+    <string name="permission_perm_sendmms">Отправлять MMS</string>
+    <string name="permission_perm_open_3g">включать 2G/3G</string>
+    <string name="permission_perm_open_wifi">включать WLAN</string>
+    <string name="permission_perm_open_bluetooth">включать Bluetooth</string>
+    <string name="permission_install_perm_loc">местоположение телефона</string>
+    <string name="permission_install_perm_record">открыть диктофон</string>
+    <string name="permission_install_perm_camera">открыть камеру</string>
+    <string name="permission_perm_send_mms">отправить SMS</string>
 </resources>
