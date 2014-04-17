@@ -271,7 +271,7 @@
     <string name="widget_shortcut_has_closed" formatted="false">Функция %s выключена, время работы продлено до %s</string>
     <string name="shortcut_status_change_shorter" formatted="false">Для параметра %s установлено значение %s, время работы уменьшилось до %s</string>
     <string name="shortcut_status_change_longer" formatted="false">Для функции %s установлено значение %s, время работы продлено до %s</string>
-    <string name="package_manager_list_title">Центр замор. прил.</string>
+    <string name="package_manager_list_title">Центр заморозки приложений</string>
     <string name="unkown_app">Неизвестное приложение</string>
     <string name="silent_install">Выполняется обновление программы \"Power Manager\"… Подождите…</string>
     <string name="package_manager_list_summery">Заморозка приложений для снижения энергопотребления</string>
@@ -386,7 +386,7 @@
     <string name="charging_title">Защита зарядки</string>
     <string name="charging_full_remind">Звуковое оповещение о полной зарядке</string>
     <string name="comm_settings">Обычное</string>
-    <string name="main_guide">Рук-во по э/сбер-ю</string>
+    <string name="main_guide">Оптимизация питания</string>
     <string name="main_guide_mode_smart_detail_6">"Отключение от сети по истечении времени ожидания
 Энергопотребление может снизиться на 1-5 %.
 Автоматическое отключение от сети Wi-Fi через определенное время."</string>
@@ -398,13 +398,13 @@
     <string name="main_guide_ctrl_gps">GPS включен. Если программа навигации не используется, отключите его для экономии энергии.</string>
     <string name="main_guide_ctrl_sync">Синхронизация включена. Если электронная почта или календарь не используются, отключите ее для экономии энергии.</string>
     <string name="main_guide_ctrl_bt">Bluetooth включен. Отключите его для экономии энергии.</string>
-    <string name="main_guide_smart">Режим Экон. энерг.</string>
+    <string name="main_guide_smart">Экономичный Режим</string>
     <string name="main_guide_ctrl">Вкл./выкл.</string>
     <string name="main_guide_super">Экстренный режим</string>
-    <string name="main_mode_normal">Обычное</string>
-    <string name="main_mode_smart">Экон. энерг.</string>
+    <string name="main_mode_normal">ООбычный</string>
+    <string name="main_mode_smart">Экономичный</string>
     <string name="main_mode_super">Экстренный</string>
-    <string name="main_mode_custom">Настр. реж.</string>
+    <string name="main_mode_custom">Настроить</string>
     <string name="smart_settings">Экономия энергии</string>
     <string name="switcher_target_super">Экстренное энергосбережение</string>
     <string name="switcher_target_flight">Автономный режим</string>
@@ -424,10 +424,28 @@
     <string name="settings_title_set_smart">Параметры экономии энергии</string>
     <string name="settings_title_set_system">Параметры системы</string>
     <string name="setttings_app_alarm">Включение гибернации с блокировкой экрана</string>
-    <string name="setttings_app">Ресурсоемкие прил-я</string>
-    <string name="setttings_app_net">Автоотключение ресурсоемких приложений</string>
+    <string name="setttings_app">Ресурсоёмкость</string>
+	<string name="fragment_tab_clear">Закрывание</string>
+    <string name="fragment_tab_net">Отключение</string>
+    <string name="fragment_tab_alarm">Сон</string>
+	<string name="usage_type_wakelock_screen">Предотвращать просыпание экрана</string>
+    <string name="usage_type_wakelock_cpu">Предотвращать просыпание процессора</string>
+    <string name="create_eye_icon">Создать ярлык на рабочем столе</string>
+    <string name="eye_notification_content">Включена защита глаз</string>
+    <string name="eye_pop_check">Показать окно регулировки яркости</string>
+    <string name="eye_pop_progress_txt">Отключить защиту для глаз и ночного использования в панели уведомлений</string>
+    <string name="smart_brightness_pop_content">Питание сохраняет мощность экрана</string>
+    <string name="smart_brightness_pop_exit">Питание сохраннило мощность экрана</string>
+    <string name="smart_brightness_pop_show">Включите "Умную яркость" для снижения потребления энергии на 5-20%</string>
+	<string name="eye_pop_show">Включить защиту глаз чтобы защитить ваши глаза</string>
+    <string name="notificaition_new">Включён режим защиты во время зарядки</string>
+    <string name="notificaition_charging_completed_new">Полный заряд, Питание защищает батарею</string>
+    <string name="smart_brightness_open">Включена "Умная яркость"</string>
+    <string name="eye_brightness_open">Включены защита глаз и "Умная яркость"</string>
+    <string name="create_classicmode_desktop_shortcut">Создать ярлык на рабочем столе</string>
+    <string name="setttings_app_net">Автоотключение ресурсоёмких приложений</string>
     <string name="setttings_app_net_tag">Выбранные приложения будут защищены.</string>
-    <string name="setttings_study">Интелл. энергосбер-е</string>
+    <string name="setttings_study">Умное энергосбережение</string>
     <string name="setttings_study_and_cpu_study">Интеллектуальное энергосбережение</string>
     <string name="setttings_study_and_cpu_cpu_detail">После включения будет выполнена интеллектуальная настройка частоты ЦП, и энергопотребление уменьшится на 5-10 %.</string>
     <string name="setttings_study_and_cpu_cpu">Интеллектуальная модуляция ЦП</string>
@@ -438,13 +456,13 @@
     <string name="setttings_app_clear_tag">Выбранные приложения будут защищены.</string>
     <string name="settings_eye_keeper_detail">После включения яркость экрана уменьшится для защиты глаз и экономии энергии.</string>
     <string name="settings_eye_keeper">Защитные очки</string>
-    <string name="setttings_cut_connect">Откл. по ист. вр.ож.</string>
+    <string name="setttings_cut_connect">Отключать в простое</string>
     <string name="setttings_cut_connect_swithcer">Дополнительный переключатель</string>
     <string name="setttings_cut_connect_time">Отключение по истечении времени ожидания</string>
     <string name="settings_frozen_detail">Заморозка редко используемых приложений для экономии энергии и освобождения памяти.</string>
     <string name="settings_consume">Энергопотребление</string>
-    <string name="settings_frozen">Замороженные приложения</string>
-    <string name="settings_notification">Показ. в стр. увед-й</string>
+    <string name="settings_frozen">В заморозке</string>
+    <string name="settings_notification">Показывать уведомления</string>
     <string name="settings_updater">Проверка обновления</string>
     <string name="noti_cut_connect_gps">GPS</string>
     <string name="noti_cut_connect_wifi">Wi-Fi</string>
@@ -457,7 +475,7 @@
     <string name="switcher_end_time">Вр. оконч.</string>
     <string name="switcher_tag">Включено в этот период</string>
     <string name="new_sim">Новая SIM</string>
-    <string name="main_guide_normal">Обычное режим</string>
+    <string name="main_guide_normal">Обычный режим</string>
     <string name="main_switch_dialog_super_tag">Больше не показывать</string>
     <string name="checking">Калибровка</string>
     <string name="unchecking">Без калибровки</string>
@@ -480,7 +498,7 @@
     <string name="settings_lighter">Индикатор уведомления</string>
     <string name="mode_super_notice_titile">Примечание</string>
     <string name="mode_super_notice_content">Для использования этой функции необходимо получить права root для телефона.</string>
-    <string name="select_all">Выб.все</string>
+    <string name="select_all">Все</string>
     <string name="time_hour">ч</string>
     <string name="time_minute">мин.</string>
     <string name="eyeskeeper_light">Настройка яркости</string>
@@ -494,10 +512,10 @@
     <string name="about_contact2">Официальное сообщество: lefen.lenovo.com</string>
     <string name="dialog_timing_text">Пора переключать режим по времени. Запустить целевой режим?</string>
     <string name="battery_tab_title_consume">Энергопотребление</string>
-    <string name="battery_remain_time">Ост.вр. раб. от акк:</string>
+    <string name="battery_remain_time">Осталось заряда на:</string>
     <string name="dialog_not_gain_root_content">"Невозможно оценить загрузку.
 При загрузке убедитесь, что функции подключения к сети после блокировки экрана и переключения по времени не повлияют на задачу загрузки."</string>
-    <string name="charging_estimate">Ост.вр. до пол. зар:</string>
+    <string name="charging_estimate">До зарядки:</string>
     <string name="notification_charging_estimate">Время до полной зарядки</string>
     <string name="app_name_widget"> Режим энергосбережения</string>
     <string name="app_name_widget_42"> Переключение для экономии энергии</string>
