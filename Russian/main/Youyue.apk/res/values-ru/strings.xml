@@ -376,7 +376,7 @@
     <string name="Y">Y</string>
     <string name="Z">Z</string>
     <string name="pound">\#</string>
-    <string name="date">Appointment</string>
+    <string name="date">Назначение</string>
     <string name="immediate">Сейчас</string>
     <string name="date_time_notice_title">Appointment reminder</string>
     <string name="date_time_notice_content">Your appointment with %1$s will begin in %2$s</string>
@@ -394,7 +394,7 @@
     <string name="date_going_time">has lasted for %1$s minute(s)</string>
     <string name="date_left_day_time">will begin in %1$s day(s)</string>
     <string name="date_over">is finished</string>
-    <string name="app_name">Друзья</string>
+    <string name="app_name">Youyue</string>
     <string name="contacts_title">Контакты</string>
     <string name="welcome">Welcome to Youyue! Give him/her a video call!</string>
     <string name="call">Вызов</string>
@@ -405,7 +405,7 @@
     <string name="finding">Поиск, пожалуйста, подождите...</string>
     <string name="adding">Добавление</string>
     <string name="waitting">"
- Please wait…"</string>
+ Подождите..."</string>
     <string name="not_user">is not a Youyue user yet, an invitation has been sent.</string>
     <string name="send_add_request">Send an add request</string>
     <string name="add">Add</string>

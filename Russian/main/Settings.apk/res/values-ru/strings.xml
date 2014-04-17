@@ -2770,12 +2770,12 @@
     <string name="display_effect_of_screen_dialog_ok">Да</string>
     <string name="display_effect_of_screen_dialog_title">Эффект будет применён после следующего включения экрана!</string>
     <string name="display_effect_of_screen_toast_title">Если вы не нажмёте "Применить", конфигурация будет восстанавлена после перезагрузки</string>
-    <string name="display_effect_of_screen_saturation_item0">Мягкие</string>
+    <string name="display_effect_of_screen_saturation_item0">Мягкая</string>
     <string name="display_effect_of_screen_saturation_item1">Стандарт</string>
-    <string name="display_effect_of_screen_saturation_item2">Яркие</string>
-    <string name="display_effect_of_screen_contrast_item0">Холодные</string>
+    <string name="display_effect_of_screen_saturation_item2">Яркая</string>
+    <string name="display_effect_of_screen_contrast_item0">Холодный</string>
     <string name="display_effect_of_screen_contrast_item1">Стандарт</string>
-    <string name="display_effect_of_screen_contrast_item2">Теплые</string>
+    <string name="display_effect_of_screen_contrast_item2">Теплый</string>
     <string name="display_effect_of_screen_sharpen_item0">По умолчанию</string>
     <string name="display_effect_of_screen_sharpen_item1">Резкие</string>
     <string name="usbsetting_help_title">Справка</string>
