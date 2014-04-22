@@ -516,7 +516,7 @@
     <string name="turn_off_data">Выключить</string>
     <string name="widget_text_wlan">Wi-Fi</string>
     <string name="widget_text_bluetooth">Bluetooth</string>
-    <string name="widget_text_auto_rotate">Автоповорот</string>
+    <string name="widget_text_auto_rotate">Авто</string>
     <string name="widget_text_brightness">Яркость</string>
     <string name="widget_text_mobile_data">Интернет</string>
     <string name="widget_text_gps">GPS</string>
@@ -546,7 +546,7 @@
     <string name="widget_text_energy_save">Энергия</string>
     <string name="widget_text_dolby">Долби-система</string>
     <string name="widget_text_car_mode">Режим авто</string>
-    <string name="widget_text_smart_rotate">Смарт поворот</string>
+    <string name="widget_text_smart_rotate">Умное</string>
     <string name="widget_text_rotate_off">Вращение</string>
     <string name="widget_text_multWindow">Многооконный</string>
     <string name="widget_text_apn_net">Многооконный</string>
@@ -579,7 +579,7 @@
     <string name="widget_text_apn_cmnet">cmnet</string>
     <string name="screenshot_tip">Выбрать область захвата</string>
     <string name="screenshot_full">Весь экран</string>
-    <string name="screenshot_area">Урожай</string>
+    <string name="screenshot_area">Обрезать</string>
     <string name="screenshot_cancel">Отмена</string>
-    <string name="screenshot_share">Поделиться</string>
+    <string name="screenshot_share">Передать</string>
 </resources>

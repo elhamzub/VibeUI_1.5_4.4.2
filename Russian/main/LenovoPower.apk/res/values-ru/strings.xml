@@ -247,7 +247,7 @@
     <string name="dialog_disable_button">Принять</string>
     <string name="common_enable_app">Включить старую версию</string>
     <string name="common_enable_detail">Включение старой версии программы \"Power Manager\"</string>
-    <string name="slogon">Сохраняй энергию с умом.</string>
+    <string name="slogon">Сохраняте энергию с умом</string>
     <string name="smart_brightness_title">Экономия энергии за счет экрана</string>
     <string name="smart_brightness_summery">Уникальная технология настройки экрана для сокращения энергопотребления на 20%</string>
     <string name="smart_endurance_title">Интеллект. расход</string>
@@ -339,7 +339,7 @@
     <string name="str_check_warning_07">Уровень заряда батареи составляет менее 15%.</string>
     <string name="str_check_warning_08">Подключите зарядное устройство</string>
     <string name="str_function_desc">"Вы стали замечать, что по прошествии определенного времени эксплуатации емкость батареи стала меньше, а также сократилось время работоспособности телефона?
- Функция калибровки батареи предназначена для решения этой проблемы, т. к. позволяет вернуть ее состояние к нормальному значению. Это придает прочность батарее и точность ее данным. 
+ Функция калибровки батареи предназначена для решения этой проблемы, т.к. позволяет вернуть ее состояние к нормальному значению. Это придает прочность батарее и точность ее данным. 
 
  Примечание: Не отключайте зарядное устройство во время выполнения калибровки. Во время калибровки могут возникнуть ошибки."</string>
     <string name="timeout">Параметры тайм-аута</string>
@@ -354,24 +354,24 @@
     <string name="screen_lock_network_applist_title">Управление приложениями белого списка</string>
     <string name="screen_lock_network_applist_summary">Приложение белого списка работает без завершения соединения</string>
     <string name="screen_lock_network_applist_summary_inner">Избирательно применяется во время работы, сохраняя сеть открытой</string>
-    <string name="onekey_exam_close">закрыть</string>
-    <string name="onekey_exam_open">открыть</string>
+    <string name="onekey_exam_close">Выкл.</string>
+    <string name="onekey_exam_open">Вкл.</string>
     <string name="onekey_exam_optimize">оптимизация</string>
     <string name="onekey_exam_brighteness">освещенность</string>
     <string name="onekey_exam_suggest_smart_brightness">, предложение откр. интеллект. освещенности</string>
     <string name="onekey_exam_sreen_time_out">тайм-аут:</string>
     <string name="onekey_exam_suggest_optimized">, предложение оптимизации</string>
     <string name="onekey_exam_bluetooth_free">Bluetooth свободно</string>
-    <string name="onekey_exam_bluetooth_opened">Bluetooth открыто</string>
+    <string name="onekey_exam_bluetooth_opened">Bluetooth включён</string>
     <string name="onekey_exam_bluetooth_connected">Bluetooth подключено</string>
-    <string name="onekey_exam_gps_opened">GPS открыто</string>
-    <string name="onekey_exam_wifi_opened">Wi-Fi открыто</string>
-    <string name="onekey_exam_data_opened">моб. передача данных открыта</string>
+    <string name="onekey_exam_gps_opened">GPS включён</string>
+    <string name="onekey_exam_wifi_opened">Wi-Fi включён</string>
+    <string name="onekey_exam_data_opened">Передача данных включена</string>
     <string name="onekey_exam_check">проверить</string>
     <string name="onekey_exam_change">изменить</string>
     <string name="onekey_exam_mobiledataconnect_opened">подключение моб. передачи данных</string>
-    <string name="onekey_exam_simcard1">sim-карта 1</string>
-    <string name="onekey_exam_simcard2">sim-карта 2</string>
+    <string name="onekey_exam_simcard1">SIM-Карта 1</string>
+    <string name="onekey_exam_simcard2">SIM-Карта 2</string>
     <string name="action_settings">Параметры</string>
     <string name="classicmode_exit_hint_text">Для выхода из режима экстренного энергосбережения коснитесь кнопки \"Закрыть\".</string>
     <string name="power_low_than_15">Менее 15%</string>
@@ -380,9 +380,9 @@
 Если выполнить калибровку, время работы от аккумулятора может увеличиться, и информация будет отображаться точнее."</string>
     <string name="battery_align_answer_doing">Во избежание сбоя не отсоединяйте зарядное устройство во время калибровки аккумулятора.</string>
     <string name="btn_battery_align_start">Начало</string>
-    <string name="btn_return">Возвр.</string>
-    <string name="connect_charger">Подкл. зар/уст.</string>
-    <string name="check_battery">Калибр. аккум.</string>
+    <string name="btn_return">Назад</string>
+    <string name="connect_charger">Подключите зарядку</string>
+    <string name="check_battery">Калибровка батареи</string>
     <string name="charging_title">Защита зарядки</string>
     <string name="charging_full_remind">Звуковое оповещение о полной зарядке</string>
     <string name="comm_settings">Обычное</string>
@@ -401,7 +401,7 @@
     <string name="main_guide_smart">Экономичный Режим</string>
     <string name="main_guide_ctrl">Вкл./выкл.</string>
     <string name="main_guide_super">Экстренный режим</string>
-    <string name="main_mode_normal">ООбычный</string>
+    <string name="main_mode_normal">Обычный</string>
     <string name="main_mode_smart">Экономичный</string>
     <string name="main_mode_super">Экстренный</string>
     <string name="main_mode_custom">Настроить</string>
@@ -424,8 +424,8 @@
     <string name="settings_title_set_smart">Параметры экономии энергии</string>
     <string name="settings_title_set_system">Параметры системы</string>
     <string name="setttings_app_alarm">Включение гибернации с блокировкой экрана</string>
-    <string name="setttings_app">Ресурсоёмкость</string>
-	<string name="fragment_tab_clear">Закрывание</string>
+    <string name="setttings_app">Высокое потребление</string>
+	<string name="fragment_tab_clear">Закрывать</string>
     <string name="fragment_tab_net">Отключение</string>
     <string name="fragment_tab_alarm">Сон</string>
 	<string name="usage_type_wakelock_screen">Предотвращать просыпание экрана</string>
@@ -502,7 +502,7 @@
     <string name="time_hour">ч</string>
     <string name="time_minute">мин.</string>
     <string name="eyeskeeper_light">Настройка яркости</string>
-    <string name="about_dialog_str">Оставляйте отзывы и общайтесь с друзьями.</string>
+    <string name="about_dialog_str">Оставляйте отзывы и общайтесь с друзьями</string>
     <string name="check_in">Определение...</string>
     <string name="progress_loading">Подождите...</string>
     <string name="no_remind">Не предлагать</string>
@@ -512,13 +512,13 @@
     <string name="about_contact2">Официальное сообщество: lefen.lenovo.com</string>
     <string name="dialog_timing_text">Пора переключать режим по времени. Запустить целевой режим?</string>
     <string name="battery_tab_title_consume">Энергопотребление</string>
-    <string name="battery_remain_time">Осталось заряда на:</string>
+    <string name="battery_remain_time">Осталось заряда:</string>
     <string name="dialog_not_gain_root_content">"Невозможно оценить загрузку.
 При загрузке убедитесь, что функции подключения к сети после блокировки экрана и переключения по времени не повлияют на задачу загрузки."</string>
     <string name="charging_estimate">До зарядки:</string>
     <string name="notification_charging_estimate">Время до полной зарядки</string>
-    <string name="app_name_widget"> Режим энергосбережения</string>
-    <string name="app_name_widget_42"> Переключение для экономии энергии</string>
+    <string name="app_name_widget">Режим энергосбережения</string>
+    <string name="app_name_widget_42">Переключение для экономии энергии</string>
     <string name="classicmode_hit_text">Экстренное энергосбережение</string>
     <string name="classic_phone_desktop_shortcut">Экстренное энергосбережение</string>
     <string name="classic_phone_dialog_title">Напоминание об экстренном энергосбережении</string>

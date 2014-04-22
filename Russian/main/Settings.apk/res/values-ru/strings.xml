@@ -2877,8 +2877,8 @@
     <string name="smartscene_home_roadcondition_summary">Передавать информацию о дорожной ситуации вокруг</string>
     <string name="smartscene_car">За рулём</string>
     <string name="smartscene_car_summary">Auto opne/close car mode</string>
-    <string name="traffic_broadcast_summary">"Трансляции детали трафика
-Пожалуйста, включите подключения данных и сетевого расположения."</string>
+    <string name="traffic_broadcast_summary">"Трансляция деталей трафика
+Пожалуйста, включите Передачу данных и Данные местоположения."</string>
     <string name="title_lcd_invert">LCD Инвертировать</string>
     <string name="credentials_none">Учетные данные не существуют</string>
     <string name="server_lenovo_id_title">Согласен зарегистрировать Lenovo ID</string>
