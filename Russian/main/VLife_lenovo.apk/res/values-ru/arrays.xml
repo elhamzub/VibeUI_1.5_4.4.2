@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="autoupdate_list_preperence">
+        <item>Обновление один раз в день (около 2k/день)</item>
+        <item>Обновление два раза в день (около 4k/день)</item>
+        <item>Обновление 4 раза в день (около 8k/день)</item>
+        <item>Обновление вручную</item>
+    </string-array>
+    <string-array name="autoupdate_value_list_preperence">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="i18n_list">
+        <item>Китайский</item>
+        <item>Английский</item>
+    </string-array>
+    <string-array name="i18n_values">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+</resources>

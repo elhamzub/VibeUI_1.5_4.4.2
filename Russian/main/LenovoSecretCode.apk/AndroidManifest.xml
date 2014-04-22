@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.lenovo.secretcode">
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <application android:label="@string/app_name">
+        <receiver android:name=".IntentReceiver">
+            <intent-filter>
+                <action android:name="android.lenovo.SECRET_CODE"/>
+            </intent-filter>
+        </receiver>
+        <activity android:excludeFromRecents="true" android:name=".DialogActivity" android:noHistory="true" android:screenOrientation="nosensor" android:theme="@style/Theme.Light"/>
+        <activity android:excludeFromRecents="true" android:name=".WipeDataActivity" android:noHistory="true" android:screenOrientation="nosensor" android:theme="@style/Theme.Light"/>
+    </application>
+</manifest>

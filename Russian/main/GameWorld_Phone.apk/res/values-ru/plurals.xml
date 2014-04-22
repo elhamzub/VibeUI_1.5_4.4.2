@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <plurals name="games_leaderboard_player_count_format">
+        <item quantity="other">Игроков: %1$s</item>
+        <item quantity="one">Игроков: %1$s</item>
+    </plurals>
+    <plurals name="games_dest_player_detail_circle_format">
+        <item quantity="other">КРУГОВ: %1$s</item>
+        <item quantity="one">КРУГОВ: %1$s</item>
+    </plurals>
+</resources>
