@@ -4,22 +4,13 @@
         <item>Личный</item>
         <item>Рабочий</item>
         <item>Другой</item>
-        <item>Создать свой ярлык</item>
+        <item>Создать свой</item>
     </string-array>
-    <string-array name="imProtocols">
-        <item>AIM</item>
-        <item>Windows Live</item>
-        <item>Yahoo</item>
-        <item>Skype</item>
-        <item>QQ</item>
-        <item>Google Talk</item>
-        <item>ICQ</item>
-        <item>Jabber</item>
-    </string-array>
+    
     <string-array name="organizationTypes">
         <item>Рабочий</item>
         <item>Другое</item>
-        <item>Создать свой ярлык</item>
+        <item>Создать свой</item>
     </string-array>
     <string-array name="phoneTypes">
         <item>Домашний</item>
@@ -29,13 +20,18 @@
         <item>Домашний факс</item>
         <item>Пейджер</item>
         <item>Другой</item>
-        <item>Создать свой ярлык</item>
+        <item>Создать свой</item>
     </string-array>
     <string-array name="postalAddressTypes">
         <item>Домашний</item>
         <item>Рабочий</item>
         <item>Другой</item>
-        <item>Создать свой ярлык</item>
+        <item>Создать свой</item>
+    </string-array>
+
+    <string-array name="special_locale_names">
+        <item>Китайский(упр.)</item>
+        <item>Китайский(трад.)</item>
     </string-array>
     <string-array name="zzzzz_lightadjust_general_preference_profile_values">
         <item>День</item>
@@ -49,59 +45,36 @@
         <item>Changeifdecrease</item>
     </string-array>
     <string-array name="zzzzz_lightadjust_general_preference_light_sensor_poll_rate_values">
-        <item>быстро</item>
-        <item>стандартно</item>
-        <item>медленно</item>
+        <item>Быстро</item>
+        <item>Стандарт</item>
+        <item>Медленно</item>
     </string-array>
     <string-array name="zzzzz_lightadjust_general_preference_brightness_fade_speed_values">
-        <item>быстро</item>
-        <item>стандартно</item>
-        <item>медленно</item>
+        <item>Быстро</item>
+        <item>Стандарт</item>
+        <item>Медленно</item>
     </string-array>
     <string-array name="zzzzz_lightadjust_general_preference_brightness_step_size_values">
-        <item>большой</item>
-        <item>стандартный</item>
-        <item>маленький</item>
+        <item>Большой</item>
+        <item>Стандарт</item>
+        <item>Маленький</item>
     </string-array>
     <string-array name="zzzzz_lightadjust_general_preference_lenovo_antishake_interval_up_values">
-        <item>быстро</item>
-        <item>стандартно</item>
-        <item>медленно</item>
+        <item>Быстро</item>
+        <item>Стандарт</item>
+        <item>Медленно</item>
     </string-array>
     <string-array name="zzzzz_lightadjust_general_preference_lenovo_antishake_interval_down_values">
-        <item>быстро</item>
-        <item>стандартно</item>
-        <item>медленно</item>
+        <item>Быстро</item>
+        <item>Стандарт</item>
+        <item>Медленно</item>
     </string-array>
-    <string-array name="config_statusBarIcons">
-        <item>smart_rotation</item>
-        <item>ime</item>
-        <item>sync_failing</item>
-        <item>sync_active</item>
-        <item>location</item>
-        <item>bluetooth</item>
-        <item>nfc</item>
-        <item>headset</item>
-        <item>tty</item>
-        <item>speakerphone</item>
-        <item>mute</item>
-        <item>volume</item>
-        <item>wifi</item>
-        <item>cdma_eri</item>
-        <item>data_connection</item>
-        <item>phone_evdo_signal</item>
-        <item>phone_signal</item>
-        <item>battery</item>
-        <item>alarm_clock</item>
-        <item>secure</item>
-        <item>clock</item>
-        <item>face_detection</item>
-    </string-array>
+
     <string-array name="imAddressTypes">
         <item>Домашний</item>
         <item>Рабочий</item>
         <item>Другое</item>
-        <item>Создать свой ярлык</item>
+        <item>Создать свой</item>
     </string-array>
     <array name="carrier_properties" />
 </resources>

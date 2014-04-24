@@ -23,6 +23,7 @@
     <string name="dialog_alert_title">Внимание</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Это видео не предназначено для потокового воспроизведения на данном устройстве.</string>
     <string name="selectTextMode">Выбрать текст</string>
+
     <string name="byteShort">Б</string>
     <string name="kilobyteShort">КБ</string>
     <string name="megabyteShort">МБ</string>
@@ -254,6 +255,8 @@
     <string name="permdesc_readCellBroadcasts">Приложение получит доступ к сообщениям широковещательных SMS-служб, которые в некоторых странах используются для информирования населения об экстренных ситуациях. Вредоносные программы могут помешать работе устройства, на которое поступают такие сообщения.</string>
     <string name="permlab_sendSms">Отправка SMS-сообщений</string>
     <string name="permdesc_sendSms">Приложение сможет отправлять SMS. Учтите, что вредоносные программы смогут отправлять сообщения без уведомления, что может привести к непредвиденным расходам.</string>
+    <string name="permlab_sendRespondViaMessageRequest">Отправить "События реагируют на сообщения"</string>
+    <string name="permdesc_sendRespondViaMessageRequest">Позволить приложению посылать запросы другим программам сообщений для обработки "События реагируют на сообщения" для входящих звонков.</string>
     <string name="permlab_readSms">Просмотр SMS и MMS</string>
     <string name="permdesc_readSms">Приложение сможет просматривать SMS-сообщения, сохраненные на устройстве или SIM-карте, независимо от содержания или настроек конфиденциальности.</string>
     <string name="permlab_writeSms">Изменение SMS и MMS</string>
@@ -1135,6 +1138,7 @@
     <string name="vpn_lockdown_connecting">Подключение…</string>
     <string name="vpn_lockdown_connected">Подключено</string>
     <string name="vpn_lockdown_error">Ошибка</string>
+    <string name="vpn_lockdown_config">Каснитесь для настройки</string>
     <string name="upload_file">Выбрать файл</string>
     <string name="no_file_chosen">Не выбран файл</string>
     <string name="reset">Сбросить</string>
@@ -1460,7 +1464,4 @@
     <string name="webviewchromium_private_browsing_warning">Эта функция не поддерживается в этой версии Android.</string>
     <string name="media_info_audio_not_supported">Не удалось воспроизводить аудио.</string>
     <string name="media_info_video_not_supported">Это видео не поддерживается.</string>
-    <string name="permlab_sendSmsNoConfirmation">отправка SMS без подтверждения</string>
-    <string name="permdesc_sendSmsNoConfirmation">Приложение сможет отправлять SMS. Учтите, что вредоносные программы смогут отправлять сообщения без уведомления, что может привести к непредвиденным расходам.</string>
-    <string name="vpn_lockdown_reset">Нажмите, чтобы сбросить соединение</string>
 </resources>
