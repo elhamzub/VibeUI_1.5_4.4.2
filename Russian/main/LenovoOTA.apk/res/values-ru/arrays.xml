@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_list">
+        <item>Контакт</item>
+        <item>SMS</item>
+        <item>Телефонная запись</item>
+        <item>Приложение</item>
+    </string-array>
+    <string-array name="setting_list">
+        <item>Резервная копия</item>
+        <item>Восстановление</item>
+    </string-array>
+</resources>
