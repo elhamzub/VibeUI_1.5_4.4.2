@@ -6,7 +6,6 @@
         <item>Другой</item>
         <item>Создать свой</item>
     </string-array>
-    
     <string-array name="organizationTypes">
         <item>Рабочий</item>
         <item>Другое</item>
@@ -28,10 +27,9 @@
         <item>Другой</item>
         <item>Создать свой</item>
     </string-array>
-
     <string-array name="special_locale_names">
-        <item>Китайский(упр.)</item>
-        <item>Китайский(трад.)</item>
+        <item>Китайский (упрощ.)</item>
+        <item>Китайский (традиц.)</item>
     </string-array>
     <string-array name="zzzzz_lightadjust_general_preference_profile_values">
         <item>День</item>
