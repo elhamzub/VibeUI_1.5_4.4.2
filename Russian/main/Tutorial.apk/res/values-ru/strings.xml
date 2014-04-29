@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Руководство</string>
+    <string name="action_update">Проверить обновления</string>
+    <string name="action_about">Описание</string>
+    <string name="dlg_title_notice">Подсказка</string>
+    <string name="dlg_title_update">Напоминание о новой версии</string>
+    <string name="dlg_title_download">Скачать</string>
+    <string name="dlg_title_install">Извлечь</string>
+    <string name="dlg_msg_no_network_connection">Вы не подключены к Интернету. Пожалуйста, проверьте конфигурацию сети</string>
+    <string name="dlg_msg_first_init">Инициализация данных...</string>
+    <string name="dlg_msg_first_update">Вы не обновляли данные в течение длительного времени. Проверить наличие новой версии?</string>
+    <string name="dlg_msg_check_data">Проверка последней версии информации на сервере...</string>
+    <string name="dlg_msg_check_data_success">"Есть новая версия: %s.
+Обновить сейчас?"</string>
+    <string name="dlg_msg_install_data">Извлечение последней версии данных. Подождите...</string>
+    <string name="notify_dwonloading_data">Загрузить последнюю версию данных...</string>
+    <string name="toast_no_network_connection">Сеть в настоящее время недоступна. Не удается обновить.</string>
+    <string name="toast_check_data_newest">Вы уже используете самую последнюю версию данных.</string>
+    <string name="toast_check_data_failed">Ошибка проверки обновления. Пожалуйста, повторите попытку позже.</string>
+    <string name="toast_downloading_data">Загружается последняя версия данных...</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Отмена</string>
+    <string name="exit">Выход</string>
+    <string name="back">Назад</string>
+    <string name="next">Дальше</string>
+    <string name="finish">Завершение</string>
+    <string name="version_str">Номер версии:</string>
+    <string name="about_dialog_notice">Так-как компоненты обновляются постоянно, руководство может не точно отражать реальное положение. Пожалуйста, одновременно обновляйте руководство и связанные с ним приложения.</string>
+</resources>
