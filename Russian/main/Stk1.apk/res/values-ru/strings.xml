@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
-    <string name="app_name">Инструменты на SIM</string>
-    <string name="appI_name">Инструментарий SIM-карты I</string>
-    <string name="appII_name">Инструментарий SIM-карты II</string>
-    <string name="appIII_name">Инструментарий SIM3</string>
-    <string name="appIV_name">Инструментарий SIM4</string>
+    <string name="app_name">Инструменты SIM</string>
+    <string name="appI_name">Инструменты SIM-1</string>
+    <string name="appII_name">Инструменты SIM-2</string>
+    <string name="appIII_name">Инструменты SIM-3</string>
+    <string name="appIV_name">Инструменты SIM-4</string>
     <string name="lable_not_available">Приложение неустановлено</string>
     <string name="menu_end_session">Закончить сеанс</string>
     <string name="help">Справка</string>

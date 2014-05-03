@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
-    <string name="app_name">Инструментарий SIM-карты</string>
+    <string name="app_name">Инструменты SIM</string>
     <string name="activity_not_found">SIM-карта не готова или не поддерживает данную функцию.</string>
     <string name="simlock_toolkit">Инструменты SIM-карты</string>
     <string name="no_sim_card_inserted">Вставьте SIM-карту для запуска Инструментария SIM-карты.</string>

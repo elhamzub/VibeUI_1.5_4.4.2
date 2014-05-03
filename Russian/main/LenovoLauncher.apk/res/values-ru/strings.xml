@@ -386,7 +386,7 @@
     <string name="workspace_loop_settings_off">Отключено</string>
     <string name="settings_feedback_title">Обратная связь</string>
     <string name="workspace_slide_settings_title">Анимация рабочего стола</string>
-    <string name="workspace_loop_settings_title">Круговое листание рабочих столов</string>
+    <string name="workspace_loop_settings_title">Циклическая прокрутка экранов</string>
     <string name="menu_sense_settings">Резервное копирование и восстановление Рабочего стола</string>
     <string name="more_settings_title">Дополнительные параметры</string>
     <string name="about_lenovo_desktop_settings_title">О приложениии</string>
