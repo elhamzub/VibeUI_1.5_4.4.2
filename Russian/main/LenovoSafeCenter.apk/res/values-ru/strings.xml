@@ -147,7 +147,7 @@
 для %1$d приложений."</string>
     <string name="can_optimization76_99">Оптимизируйте телефон!</string>
     <string name="can_optimization_item">Элементы для оптимизации</string>
-    <string name="canoptimize_text">Оптимизировать</string>
+    <string name="canoptimize_text">Улучшить</string>
     <string name="charge_safe">Контроль расходов</string>
     <string name="clear_cache_done">Кэш приложения %1$s очищен.</string>
     <string name="clear_cache_scan">%1$s кэш-памяти очищено</string>
@@ -197,13 +197,13 @@
     <string name="op_safeinput_method_detail">Включить защиту паролей</string>
     <string name="op_safepaymen_detail">Включить защиту онлайн платежей</string>
     <string name="op_sendsms_frombackgroud_detail">Отключены все программы отправки SMS в фоновом режиме</string>
-    <string name="optimization_datail_num_item">Оптимизировать: %1$d</string>
+    <string name="optimization_datail_num_item">Улучшить: %1$d</string>
     <string name="optimize_done_text">Оптимизация завершена</string>
     <string name="optimizeing_text">Оптимизация</string>
     <string name="optimize_pause_text">Приостановить оптимизацию</string>
-    <string name="optimizition">Оптимизировать</string>
-    <string name="paymentapp">Интерактивные банк. операц. и покупки с защитой в реал. вр</string>
-    <string name="protecting_text">под защитой</string>
+    <string name="optimizition">Улучшить</string>
+    <string name="paymentapp">Банковые операции и покупки с защитой в реальном времени</string>
+    <string name="protecting_text">Под защитой</string>
     <string name="safe">Безопасный</string>
     <string name="safeinputmethod">Защита паролей</string>
     <string name="safeinputmethod_protecting">Защита при вводе пароля</string>
@@ -214,7 +214,7 @@
     <string name="scan_auto_update_detail">Автоматическое обновление базы данных не Включено</string>
     <string name="scan_bootapp_detail">Проверить приложения, загруженные при запуске</string>
     <string name="scan_cache_detail">Сканировать кэш-память телефона</string>
-    <string name="scan_can_backup_contact_lecloud">Адресная книга изменена. Выполните резервное копирование системы безопасности. (рекомендуется)</string>
+    <string name="scan_can_backup_contact_lecloud">Адресная книга изменена. Выполните резервное копирование системы безопасности (рекомендуется)</string>
     <string name="scan_harass_intercept_detail">Анти-спам</string>
     <string name="scaning_text">Сканирование…</string>
     <string name="scan_lecloud_can_update">Доступна новая резервная копия системы безопасности</string>
@@ -243,7 +243,7 @@
     <string name="virus_protecting">Антивирус работает</string>
     <string name="safe_main_install">Установить</string>
     <string name="init_perm">Инициализация данных разрешения приложений</string>
-    <string name="one_key_optimization">Оптимизировать</string>
+    <string name="one_key_optimization">Улучшить</string>
     <string name="download_app_link">Загрузить</string>
     <string name="can_backup_contact_txt">%1$d контактов нужно зарезервировать</string>
     <string name="op_backup_contact_txt">Контакты зарезервированы</string>
@@ -446,7 +446,7 @@
     <string name="antispamhand_number_hit">Обязательно</string>
     <string name="Complete">Готово</string>
     <string name="continue_Optimization">Продолжить</string>
-    <string name="health_checkup">Проверить</string>
+    <string name="health_checkup">Проверка</string>
     <string name="help_tv_1">Анти-вор</string>
     <string name="help_tv_2">Ваш охранник данных, когда ваш телефон потерян</string>
     <string name="thank_user" />
@@ -961,7 +961,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="sysclear_opti_one_btn">Оптимизация</string>
     <string name="sysclear_scan_finish">Готово</string>
     <string name="sysclear_scanning">Сканирование…</string>
-    <string name="sysclear_scan_comment">Оптимизировать сейчас</string>
+    <string name="sysclear_scan_comment">Улучшить сейчас</string>
     <string name="sysclear_optiing">Оптимизация...</string>
     <string name="sysclear_opti_finish">Готово</string>
     <string name="sysclear_opti_now_tip">Очистка ускорит ваш телефон</string>
@@ -1042,7 +1042,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="net_ok">ОК</string>
     <string name="net_operators_u">China Unicom</string>
     <string name="net_operators_m">China Mobile</string>
-    <string name="net_package_des1">Нет тарифного плана</string>
+    <string name="net_package_des1">Не настроено</string>
     <string name="net_selsect">Не выбрано</string>
     <string name="net_settings">Настройки</string>
     <string name="net_simcard_error3">SIM-карта отсутствует или неактивна</string>
@@ -1067,9 +1067,9 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="net_traffic_daily_detail_title2">Ежедневное использование</string>
     <string name="net_traffic_daily_detail_title_app">Статистика использования мобильного интернета сегодня</string>
     <string name="net_traffic_daily_detail_title_app2">Сегодня поток приложения Топ</string>
-    <string name="net_traffic_deny_text">Off net(%1$ds)</string>
+    <string name="net_traffic_deny_text">Выкл. сеть(%1$ds)</string>
     <string name="net_traffic_ignore">Игнорировать</string>
-    <string name="net_traffic_lookup">просмотр</string>
+    <string name="net_traffic_lookup">Просмотр</string>
     <string name="net_traffic_mobile_app_useage">"2G/3G: %1$s  "</string>
     <string name="net_traffic_phone_sim">SIM-карта</string>
     <string name="net_traffic_show_data_noti_summary">Закончилась неделя. Хотите проверить расход трафика</string>
