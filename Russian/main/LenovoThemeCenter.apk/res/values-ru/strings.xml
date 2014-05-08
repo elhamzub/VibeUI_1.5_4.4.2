@@ -789,7 +789,7 @@ Thank you for gently moving your finger. It will help us improve!"</string>
     <string name="exit_toast">Press back again to quit</string>
     <string name="font_title_phone">Телефон</string>
     <string name="font_title_sdcard">SD-карта</string>
-    <string name="font_sdcard_name_default">Шрифт Леново</string>
+    <string name="font_sdcard_name_default">Шрифт Lenovo</string>
     <string name="font_sdcard_description_default">"LENOVO FOR THOSE WHO DO.
 LENOVO THEME CENTER"</string>
     <string name="font_sdcard_no_fonts">Нет шрифтов</string>
@@ -797,7 +797,7 @@ LENOVO THEME CENTER"</string>
     <string name="loading_slogan">Почувствуйте красоту индивидуальности</string>
     <string name="font_title_cn">Китайский</string>
     <string name="font_title_en">Английский</string>
-    <string name="font_sdcard_description_one_cn">"Центр Тем Леново
+    <string name="font_sdcard_description_one_cn">"Центр Тем Lenovo
 Dress it up, take it out"</string>
     <string name="font_sdcard_description_two_cn">All-around theme experience to dress up your phone and satisfy all your personalization needs when using your phone from switching it on down to turning it off.</string>
     <string name="font_sdcard_description_en">"ABCDEFGHIJKLMNOPQRS
