@@ -424,7 +424,7 @@
     <string name="settings_title_set_smart">Параметры экономии энергии</string>
     <string name="settings_title_set_system">Параметры системы</string>
     <string name="setttings_app_alarm">Включение гибернации с блокировкой экрана</string>
-    <string name="setttings_app">Высокое потребление</string>
+    <string name="setttings_app">Контроль приложений</string>
 	<string name="fragment_tab_clear">Закрывать</string>
     <string name="fragment_tab_net">Отключение</string>
     <string name="fragment_tab_alarm">Сон</string>
@@ -456,7 +456,7 @@
     <string name="setttings_app_clear_tag">Выбранные приложения будут защищены.</string>
     <string name="settings_eye_keeper_detail">После включения яркость экрана уменьшится для защиты глаз и экономии энергии.</string>
     <string name="settings_eye_keeper">Защитные очки</string>
-    <string name="setttings_cut_connect">Отключать в простое</string>
+    <string name="setttings_cut_connect">Отключение модулей</string>
     <string name="setttings_cut_connect_swithcer">Дополнительный переключатель</string>
     <string name="setttings_cut_connect_time">Отключение по истечении времени ожидания</string>
     <string name="settings_frozen_detail">Заморозка редко используемых приложений для экономии энергии и освобождения памяти.</string>
@@ -471,8 +471,8 @@
     <string name="main_switcher">Переключение по времени</string>
     <string name="switcher_detail">Автовключение определенного режима в определенный период</string>
     <string name="switcher">Переключение по времени</string>
-    <string name="switcher_start_time">Вр. начала</string>
-    <string name="switcher_end_time">Вр. оконч.</string>
+    <string name="switcher_start_time">Начало</string>
+    <string name="switcher_end_time">Окончание</string>
     <string name="switcher_tag">Включено в этот период</string>
     <string name="new_sim">Новая SIM</string>
     <string name="main_guide_normal">Обычный режим</string>
