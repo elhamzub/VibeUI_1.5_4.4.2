@@ -250,9 +250,9 @@
     <string name="config_folder_Launcher_alphaInOut">0.75</string>
     <string name="config_folder_low_Launcher_alphaInOut">0.95</string>
     <string name="app_filter_class" />
-    <string name="tab_local">Локальные</string>
-    <string name="local_restore">Локальное восстановление</string>
-    <string name="local_backup">Локальное резервное копирование</string>
+    <string name="tab_local">Локальное</string>
+    <string name="local_restore">Восстановление</string>
+    <string name="local_backup">Резервное копирование</string>
     <string name="lastest_backup_tips">Последнее резервное копирование：%s</string>
     <string name="profile_backup_title">Сохранить состояние</string>
     <string name="profile_selection_settings">Резервное копирование настроек Lenovo Лаунчера</string>
@@ -387,7 +387,7 @@
     <string name="settings_feedback_title">Обратная связь</string>
     <string name="workspace_slide_settings_title">Анимация рабочего стола</string>
     <string name="workspace_loop_settings_title">Циклическая прокрутка экранов</string>
-    <string name="menu_sense_settings">Резервное копирование и восстановление Рабочего стола</string>
+    <string name="menu_sense_settings">Копирование и восстановление</string>
     <string name="more_settings_title">Дополнительные параметры</string>
     <string name="about_lenovo_desktop_settings_title">О приложениии</string>
     <string name="about_lenovo_desktop_settings">О приложении Lenovo Лаунчер</string>
@@ -443,8 +443,8 @@
     <string name="menu_help" />
     <string name="group_wallpapers" />
     <string name="auto_reorder_title">Упорядочить значки автоматически</string>
-    <string name="auto_reorder_summary">Пока включено, иконки будут размещаться тесно друг к другу.(Исключая главный экран)</string>
-    <string name="auto_reorder_finish">Режим "Упорядочить автоматически" - включен</string>
+    <string name="auto_reorder_summary">Если включено, иконки будут размещаться друг за другом (кроме главного экрана)</string>
+    <string name="auto_reorder_finish">Включёна группировка иконок</string>
     <string name="need_no_manual_reorder">Пока включено, иконки будут размещаться тесно друг к другу</string>
     <string name="editmode_scale_factor">0.90</string>
     <string name="editmode_extra_scale_factor">0.08</string>
@@ -518,7 +518,7 @@
     <string name="version_update_query_version">Подождите, пожалуйста, при запросе новой версии...</string>
     <string name="confirm_network_open">Пожалуйста, проверьте, что Настройки -> Дополнительные параметры -> Сетевое подключение, позволяет Lenovo Лаунчеру получать данные</string>
     <string name="boot_backup_desktop_fail">Резервное копирование Рабочего стола не удалось</string>
-    <string name="boot_backup_desktop_success">Успешное резервное копирование Рабочего стола</string>
+    <string name="boot_backup_desktop_success">Успешное копирование Рабочего стола</string>
     <string name="grid_empty_error">Ошибка получения данных, проверьте сеть.</string>
     <string name="download_app_fail">Ошибка скачивания.</string>
     <string name="download_net_error">Ошибка сети. Подключитесь к сети и повторите попытку.</string>
@@ -532,8 +532,8 @@
     <string name="desktop_backup_file">Резервное копирование Рабочего стола в файл</string>
     <string name="cloud_restore_download_cancel">Загрузка отменена</string>
     <string name="tab_cloud">Облако</string>
-    <string name="cloud_restore">Восстановление из Облака</string>
-    <string name="cloud_backup">Резервное копирование в Облако</string>
+    <string name="cloud_restore">Восстановление</string>
+    <string name="cloud_backup">Резервное копирование</string>
     <string name="backup">Резервное копирование</string>
     <string name="restore">Восстановление</string>
     <string name="version_update_toast">Пожалуйста, проверьте настройки сетевого подключения.</string>

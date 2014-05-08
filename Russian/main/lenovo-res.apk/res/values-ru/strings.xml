@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lsr_window_smart_rolled_toast">Окно с функцией интеллектуальной прокрутки</string>
-    <string name="lsr_window_not_support_smart_rolled_toast">Окно не поддерживает функцию интеллектуальной прокрутки</string>
+    <string name="lsr_window_not_support_smart_rolled_toast">"Окно не поддерживает функцию интеллектуальной прокрутки"</string>
     <string name="lwt_description_target_back">back</string>
     <string name="lwt_description_target_home">home</string>
     <string name="lwt_description_target_menu">menu</string>

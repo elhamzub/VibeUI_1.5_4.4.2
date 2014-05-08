@@ -18,6 +18,10 @@
     <string name="permlab_receiveCbSms">Получено CB SMS</string>
     <string name="permdesc_receiveCbSms">Разрешить приложениям получать и обрабатывать CB SMS. Вредоносные приложения могут отслеживать Ваши сообщения или удалять их, не показывая Вам</string>
     <string name="keyguard_password_enter_puk_code">Введите PUK</string>
+    <string name="invalidPuk">Введите 8 цифр.</string>
+    <string name="pin_length_indicate">(4-8 цифр)</string>
+    <string name="puk_length_indicate">(8 цифр)</string>
+    <string name="one_retry_left">Осталась 1 попытка</string>
     <string name="invalid_imei">Неправильный IMEI</string>
     <string name="same_imei">Одинаковый IMEI</string>
     <string name="oper_long_46000">CMCC</string>
@@ -123,6 +127,8 @@
     <string name="wifi_display_sound_path_reminder">Мультимедиа звук не будет играть с гарнитуры.</string>
     <string name="for_first_simcard">Для SIM1</string>
     <string name="for_second_simcard">Для SIM2</string>
+    <string name="for_third_simcard">Для SIM3</string>
+    <string name="for_fourth_simcard">Для SIM4</string>
     <string name="lockscreen_pin_too_many_failed_attempts_dialog_message" formatted="false">"Вы неправильно ввели PIN-код %d раз. 
 
 Попробуйте еще раз через %d сек."</string>
@@ -185,9 +191,11 @@
     <string name="virtual_sim_on_slot2">Виртуальная SIM 2 ON</string>
     <string name="virtual_sim_on_slot3">Виртуальная SIM 3 ON</string>
     <string name="virtual_sim_on_slot4">Виртуальная SIM 4 ON</string>
-    <string name="virtual_sim_on">Виртуальная SIM ON</string>
+    <string name="virtual_sim_on">Включена виртуальная SIM</string>
     <string name="sim_missing_slot1">Не обнаружена SIM-карта(Слот 1)</string>
     <string name="sim_missing_slot2">Не обнаружена SIM-карта(Слот 2)</string>
+    <string name="sim_missing_slot3">Не обнаружена SIM-карта(Слот 3)</string>
+    <string name="sim_missing_slot4">Не обнаружена SIM-карта(Слот 4)</string>
     <string name="sim_missing">Не обнаружены SIM-карты</string>
     <string name="sim_missing_detail">Проверьте готовность SIM-карты</string>
     <string name="sim_missing_slot1_card">Не обнаружена SIM-карта(Слот 1)</string>
@@ -214,10 +222,10 @@
     <string name="tethered_notification_message_for_hotspot">%1$d подключено, %2$d заблокировано</string>
     <string name="tethered_notification_message_bandwidth_set">Установка пропускной способности</string>
     <string name="default_wallpaper_name">По умолчанию</string>
-    <string name="cu_3gnet_name">沃3G连接互联网</string>
-    <string name="cu_3gwap_name">沃3G手机上网</string>
+    <string name="cu_3gnet_name">3G подключение к Интернету</string>
+    <string name="cu_3gwap_name">3G Интернет</string>
     <string name="description_direction_right">Проведите вправо для отмены</string>
-    <string name="description_direction_left">Slide left to snooze</string>
+    <string name="description_direction_left">Проведите влево для повтора</string>
     <string name="description_direction_up">Проведите вверх для отмены</string>
     <string name="description_direction_down">Проведите вниз, чтобы отложить</string>
     <string name="dismiss_power_on">Пропустить и включить</string>

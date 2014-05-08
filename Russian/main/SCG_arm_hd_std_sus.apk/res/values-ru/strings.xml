@@ -2,8 +2,8 @@
 <resources>
 	<string name="camera_label">Камера</string>
 	<string name="app_name">Галерея</string>
-    <string name="app_name_for_special">Галерея</string>
-    <string name="liumingexit">Назад</string>
+	<string name="app_name_for_special">Галерея</string>
+	<string name="liumingexit">Назад</string>
     <string name="update">NEW</string>
     <string name="exscene">Расшир.</string>
     <string name="burst">Серия</string>
@@ -244,6 +244,7 @@
     <string name="pref_camera_special_effects_title">Спецэффекты</string>
     <string name="pref_camera_blink_detection_title">Распознавание моргания</string>
     <string name="pref_camera_touch_shoot_title">Съемка касанием</string>
+    <string name="pref_camera_meteing_from_touch_title">Точка-связаны замер</string>
     <string name="pref_camera_anti_shake_title">Стабилизация</string>
     <string name="pref_camera_storage_title">Хранение</string>
     <string name="pref_camera_storage_entry_sd">Телефон</string>
@@ -274,6 +275,7 @@
     <string name="gps_tag">Метка GPS</string>
     <string name="pref_camera_smart_light_title">Супер ночной режим пейзажа</string>
     <string name="metering">Экспозамер</string>
+    <string name="metering_from_touch">Точка-связаны замер</string>
     <string name="blink_detection">Распознавание моргания</string>
     <string name="touch_capture">Съемка касанием</string>
     <string name="camera_iso">ISO</string>
@@ -559,6 +561,9 @@
     <string name="app_out_of_date">Текущая версия приложения камеры является устаревшей, поэтому некоторые функции камеры использовать нельзя. Рекомендуется обновить камеру. (Для обновления выберите в меню \"О программе\" пункт \"Проверить наличие обновлений\".)</string>
     <string name="gif_flash_parameter_failed">Не удалось задать параметры вспышки</string>
     <string name="gif_preview_parameter_failed">Не удалось задать параметры предварительного просмотра</string>
+    <string name="pref_camera_snapshot_switcher_title">снимок</string>
+    <string name="pref_camera_snapshot_entry_off">Выкл</string>
+    <string name="pref_camera_snapshot_entry_on">Вкл</string>
     <string name="photoeditor_name">Фотостудия</string>
     <string name="loading_failure">Не удалось загрузить фотографию</string>
     <string name="saving_failure">Не удалось сохранить измененную фотографию</string>
