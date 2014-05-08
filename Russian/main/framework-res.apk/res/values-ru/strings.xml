@@ -23,7 +23,6 @@
     <string name="dialog_alert_title">Внимание</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Это видео не предназначено для потокового воспроизведения на данном устройстве.</string>
     <string name="selectTextMode">Выбрать текст</string>
-
     <string name="byteShort">Б</string>
     <string name="kilobyteShort">КБ</string>
     <string name="megabyteShort">МБ</string>
