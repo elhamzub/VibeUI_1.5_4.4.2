@@ -444,7 +444,7 @@
     <string name="group_wallpapers" />
     <string name="auto_reorder_title">Упорядочить значки автоматически</string>
     <string name="auto_reorder_summary">Если включено, иконки будут размещаться друг за другом (кроме главного экрана)</string>
-    <string name="auto_reorder_finish">Включёна группировка иконок</string>
+    <string name="auto_reorder_finish">Включена группировка иконок</string>
     <string name="need_no_manual_reorder">Пока включено, иконки будут размещаться тесно друг к другу</string>
     <string name="editmode_scale_factor">0.90</string>
     <string name="editmode_extra_scale_factor">0.08</string>
