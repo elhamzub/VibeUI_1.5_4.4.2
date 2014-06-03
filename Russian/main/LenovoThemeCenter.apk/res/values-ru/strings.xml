@@ -894,7 +894,7 @@ abcdefghijklmnopqrstuvwxyz
     <string name="File_Ziping">Архивация...</string>
     <string name="File_ZipFail">Не удалось выполнить архивацию</string>
     <string name="wallpaper_live">Живые Обои</string>
-    <string name="wallpaper_static">Обои рабочего стола</string>
+    <string name="wallpaper_static">Обои</string>
     <string name="live_wallpaper_loading">Загрузка живых обоев…</string>
     <string name="configure_wallpaper">Настройки…</string>
     <string name="live_wallpaper_preview_title">Live wallpaper preview</string>
