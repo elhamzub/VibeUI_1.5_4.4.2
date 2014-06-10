@@ -1414,8 +1414,8 @@
     <string name="wifi_tether_configure_ap_text">Настройка точки доступа</string>
     <string name="wifi_tether_configure_subtext">Точка доступа %1$s %2$s</string>
     <string name="wifi_tether_configure_ssid_default">Хот-спот Android</string>
-    <string name="wifi_ap_more">Проверить все точки доступа</string>
-    <string name="wifi_ap_less">Отобрать с хорошим приёмом</string>
+    <string name="wifi_ap_more">Показать все точки доступа</string>
+    <string name="wifi_ap_less">Показать с хорошим приёмом</string>
     <string name="testing_wifi_info">Информация Wi-Fi</string>
     <string name="disableNetwork">Отключить сеть</string>
     <string name="enableNetwork">Включить сеть</string>
