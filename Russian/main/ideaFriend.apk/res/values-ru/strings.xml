@@ -2368,9 +2368,9 @@
     <string name="time_set_error_title">Установка ошибка</string>
     <string name="time_set_error_msg">Не удается запланировать прошлое время</string>
     <string name="pref_title_sms_disabled">SMS Отключено</string>
-    <string name="pref_summary_sms_disabled">Нажмите, чтобы Сообщения используемую по умолчанию смс-ок</string>
+    <string name="pref_summary_sms_disabled">Нажмите, чтобы использовать приложение Сообщения по-умолчанию </string>
     <string name="pref_title_sms_enabled">SMS Включено</string>
-    <string name="pref_summary_sms_enabled">Нажмите, чтобы изменить свое умолчанию смс-ок</string>
+    <string name="pref_summary_sms_enabled">Нажмите, чтобы изменить своё приложение по-умолчанию</string>
     <string name="status_delete_without_read">Deleted without being read</string>
     <string name="phonecity_label">Местоположение</string>
     <string name="phonecity_query_title">Запрос местоположения</string>
@@ -2415,8 +2415,8 @@
     <string name="calllog_multi_title">Выбор журнала вызовов</string>
     <string name="sensor_keyboard_title">Чувствительность клавиатуры</string>
     <string name="sensor_keyboard_decription">Чем больше чувствительность клавиатуры, тем легче сменить направление наклоном</string>
-    <string name="sensor_keyboard_open">Ртутная клавиатура включена. Быстро проведите по клавиатуре влево для выключения!</string>
-    <string name="sensor_keyboard_close">Ртутная клавиатура выключена. Быстро проведите по клавиатуре вправо для включения!</string>
+    <string name="sensor_keyboard_open">Живая клавиатура включена. Быстро проведите по клавиатуре влево для выключения!</string>
+    <string name="sensor_keyboard_close">Живая клавиатура выключена. Быстро проведите по клавиатуре вправо для включения!</string>
     <string name="telecom_menu_call">Вызов Telecom</string>
     <string name="call_dial_card1">Вызов SIM1</string>
     <string name="call_dial_card2">Вызов SIM2</string>
