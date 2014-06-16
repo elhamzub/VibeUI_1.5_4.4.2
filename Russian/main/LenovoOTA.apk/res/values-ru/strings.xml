@@ -258,7 +258,6 @@
     <string name="weibosdk_demo_toast_auth_success">Вход выполнен</string>
     <string name="weibosdk_demo_toast_auth_failed">Авторизация провалена</string>
     <string name="network_error">Нет сети, попробуйте позже</string>
-    <string name="notification_new_rom_come">Вы можете обновить вашу систему до последней версии</string>
     <string name="install_mode_fragment_content_countdownnoncancel">Система перезагрузится через 60 сек.</string>
     <string name="package_checksun_error">Ошибка, выйдите из программы！</string>
     <string name="package_checksun_error_title">Ошибка проверки чексуммы</string>
