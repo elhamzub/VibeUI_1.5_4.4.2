@@ -62,7 +62,7 @@
     <string name="com_lenovo_lsf_lenovouser_register_sendprogess">Отправляется письмо с кодом активации, пожалуйста, подождите...</string>
     <string name="com_lenovo_lsf_lenovouser_register_sendfailuret">Отправка повторного письма для активации - не удалась</string>
     <string name="com_lenovo_lsf_lenovouser_register_sendfailure">Ошибка сетевого соединения. Повторите попытку.</string>
-    <string name="com_lenovo_lsf_lenovouser_register_sendsuccesst">Письмо для активации - отправлено </string>
+    <string name="com_lenovo_lsf_lenovouser_register_sendsuccesst">Письмо для активации - отправлено</string>
     <string name="com_lenovo_lsf_lenovouser_register_sendsuccess">Новое письмо для активации отправлено на ваш адрес электронной почты, пожалуйста проверьте.</string>
     <string name="com_lenovo_lsf_lenovouser_register_sendprogess1">Отправка SMS с кодом активации, пожалуйста, подождите...</string>
     <string name="com_lenovo_lsf_lenovouser_register_sendfailuret1">Выслать повторное SMS с кодом активации - не удалось</string>
@@ -79,7 +79,7 @@
     <string name="com_lenovo_lsf_psauthen_text19">Запрос доступа</string>
     <string name="com_lenovo_lsf_psauthen_text20">Не возможно зайти сразу под двумя аккаунтами</string>
     <string name="com_lenovo_lsf_psauthen_error1">Ошибка сетевого соединения. Повторите попытку.</string>
-    <string name="com_lenovo_lsf_psauthen_error2">"Не могу войти на аккаунт PID"</string>
+    <string name="com_lenovo_lsf_psauthen_error2">Не могу войти на аккаунт PID</string>
     <string name="com_lenovo_lsf_psauthen_error3">Пользователь не существует</string>
     <string name="com_lenovo_lsf_psauthen_error4">Ошибка пароля</string>
     <string name="com_lenovo_lsf_psauthen_error5">Пожалуйста, активируйте свой аккаунт</string>
@@ -93,7 +93,6 @@
     <string name="com_lenovo_lsf_login_string_login_qq">QQ логин</string>
     <string name="com_lenovo_lsf_login_string_login">Войти</string>
     <string name="com_lenovo_lsf_login_string_registration">Регистрация</string>
-    <string name="com_lenovo_lsf_login_string_havenoid" />
     <string name="com_lenovo_lsf_login_string_forgetpwd"><u>Забыли пароль?</u></string>
     <string name="com_lenovo_lsf_login_string_account">Lenovo ID</string>
     <string name="com_lenovo_lsf_login_string_password">Пароль</string>
@@ -104,7 +103,6 @@
     <string name="com_lenovo_lsf_login_string_agree">Вход подтверждает, что вы согласны с</string>
     <string name="com_lenovo_lsf_login_string_protocol">Вход подтверждает, что вы согласны с <u>Условиями обслуживания</u></string>
     <string name="com_lenovo_lsf_register_string_login">Войти</string>
-    <string name="com_lenovo_lsf_register_string_haveid" />
     <string name="com_lenovo_lsf_register_string_register">Регистрация</string>
     <string name="com_lenovo_lsf_register_string_registerinfo">Если у вас уже есть Lenovo ID, пожалуйста вернитесь обратно</string>
     <string name="com_lenovo_lsf_register_string_account">Lenovo ID</string>
@@ -177,7 +175,6 @@
     <string name="com_lenovo_lsf_senced_password_not_null">Введите пароль повторно</string>
     <string name="com_lenovo_lsf_click_sixty_min_later">Подождите 60 секунд до повторного нажатия кнопки.</string>
     <string name="com_lenovo_lsf_account_settings">Настройки учетной записи</string>
-    <string name="com_lenovo_lsf_account_settings_summery" />
     <string name="com_lenovo_lsf_login_password_error">Ошибка пароля. Введите правильный пароль.</string>
     <string name="com_lenovo_lsf_forget_password_error">Слишком часто, повторите попытку позже</string>
     <string name="com_lenovo_lsf_app_upgrade_notification">Обновление LenovoServiceFramework-а</string>
@@ -246,11 +243,7 @@
     <string name="com_lenovo_lsf_phone_login">Номер мобильного телефона</string>
     <string name="com_lenovo_lsf_sina_login">Аккаунт Sina weibo</string>
     <string name="com_lenovo_lsf_qq_login">Аккаунт QQ</string>
-    <string name="config_folderAnimScaleString">2.5</string>
-    <string name="config_folder_Launcher_alphaInOut">0.75</string>
-    <string name="config_folder_low_Launcher_alphaInOut">0.95</string>
-    <string name="app_filter_class" />
-    <string name="tab_local">Локальное</string>
+    <string name="tab_local">Локальные</string>
     <string name="local_restore">Восстановление</string>
     <string name="local_backup">Резервное копирование</string>
     <string name="lastest_backup_tips">Последнее резервное копирование：%s</string>
@@ -293,8 +286,7 @@
     <string name="long_press_widget_to_add">Нажмите и удерживайте, чтобы подхватить виджет.</string>
     <string name="market">Магазин</string>
     <string name="widget_dims_format">%1$d × %2$d</string>
-    <string name="external_drop_widget_pick_format">%1$s (%2$d × %3$d)</string>
-    <string name="external_drop_widget_error">"Не возможно разместить на этом Рабочем столе."</string>
+    <string name="external_drop_widget_error">Не возможно разместить на этом Рабочем столе.</string>
     <string name="external_drop_widget_pick_title">Выберите виджет для создания</string>
     <string name="rename_folder_label">Имя папки</string>
     <string name="rename_folder_title">Переименовать папку</string>
@@ -325,7 +317,6 @@
     <string name="accessibility_all_apps_button">Приложения</string>
     <string name="accessibility_delete_button">Удалить</string>
     <string name="delete_zone_label_all_apps_system_app">Удалить обновления</string>
-    <string name="help_url" />
     <string name="cab_menu_delete_app">Удаление приложения</string>
     <string name="cab_menu_app_info">Детали приложения</string>
     <string name="cab_app_selection_text">1 приложение выбрано</string>
@@ -341,7 +332,7 @@
     <string name="permlab_write_settings">Записать настройки Рабочего стола и ярлыков</string>
     <string name="permdesc_write_settings">Приложение сможет изменять настройки и ярлыки на Рабочем столе.</string>
     <string name="gadget_error_text">Проблема загрузки виджета</string>
-    <string name="uninstall_system_app_text">"Это системное приложение и не может быть удалено."</string>
+    <string name="uninstall_system_app_text">Это системное приложение и не может быть удалено.</string>
     <string name="dream_name">Лаунчер Ракета</string>
     <string name="folder_hint_text">Безымянная папка</string>
     <string name="workspace_description_format">Рабочий стол %1$d</string>
@@ -351,14 +342,12 @@
     <string name="apps_customize_widgets_scroll_format">%1$d страница виджетов из %2$d</string>
     <string name="first_run_cling_title">Добро пожаловать!</string>
     <string name="first_run_cling_description">Почувствуйте себя как дома.</string>
-    <string name="first_run_cling_custom_content_hint" />
-    <string name="first_run_cling_search_bar_hint" />
     <string name="first_run_cling_create_screens_hint">Создайте дополнительные экраны для приложений и папок</string>
     <string name="workspace_cling_title">Организуйте ваше рабочее пространство</string>
     <string name="workspace_cling_move_item">Нажмите и удерживайте фон для выбора обоев, виджетов и настроек.</string>
     <string name="all_apps_cling_title">Выберите какие-нибудь приложения</string>
     <string name="all_apps_cling_add_item">Чтобы добавить приложение на Рабочий стол, нажмите и удерживайте его.</string>
-    <string name="folder_cling_title">"Вот папка"</string>
+    <string name="folder_cling_title">Вот папка</string>
     <string name="folder_cling_create_folder">Чтобы создать такую, нажмите и удерживайте приложение, а затем переместите его на другое.</string>
     <string name="cling_dismiss">OK</string>
     <string name="dummy_custom_cling_error_message">Ошибка: custom workspace layout passed in but custom cling was not overwritten</string>
@@ -368,11 +357,6 @@
     <string name="folder_closed">Папка закрыта</string>
     <string name="folder_renamed">Папка переименована в %1$s</string>
     <string name="folder_name_format">Папка: %1$s</string>
-    <string name="custom_workspace_cling_title_1" />
-    <string name="custom_workspace_cling_description_1" />
-    <string name="custom_workspace_cling_title_2" />
-    <string name="custom_workspace_cling_description_2" />
-    <string name="debug_memory_activity">* HPROF</string>
     <string name="widget_button_text">Виджеты</string>
     <string name="wallpaper_button_text">Настройки темы</string>
     <string name="settings_button_text">Параметры</string>
@@ -440,14 +424,10 @@
     <string name="cannot_be_placed_on_dockview_folder">Не могу переместить несколько папок</string>
     <string name="cannot_be_placed_on_dockview">Не могу переместить несколько виджетов</string>
     <string name="cannot_be_moved_to_dockview">Не могу переместить несколько иконок</string>
-    <string name="menu_help" />
-    <string name="group_wallpapers" />
     <string name="auto_reorder_title">Упорядочить значки автоматически</string>
     <string name="auto_reorder_summary">Если включено, иконки будут размещаться друг за другом (кроме главного экрана)</string>
     <string name="auto_reorder_finish">Включена группировка иконок</string>
     <string name="need_no_manual_reorder">Пока включено, иконки будут размещаться тесно друг к другу</string>
-    <string name="editmode_scale_factor">0.90</string>
-    <string name="editmode_extra_scale_factor">0.08</string>
     <string name="editmode_uninstall_info">Удалить \"%1$s\"?</string>
     <string name="editmode_remove_quickentry">Удалить ярлык \"%1$s\"?</string>
     <string name="editmode_uninstall_confirm">ОК</string>
@@ -501,7 +481,7 @@
     <string name="SUS_QUERY_NEW_SIZE">Размер новой версии:</string>
     <string name="SUS_QUERY_COMMENT">Описание обновления:</string>
     <string name="SUS_MSG_FAIL_SUSSERVER">Не удаётся получить Lenovo Лаунчер новой версии.</string>
-    <string name="update_dialog_title"> Обновление Lenovo Лаунчера</string>
+    <string name="update_dialog_title">Обновление Lenovo Лаунчера</string>
     <string name="update_content_tee">Обновления!</string>
     <string name="update_content_name">Версия: %s</string>
     <string name="update_content_size">Размер: %s</string>
@@ -568,6 +548,7 @@
     <string name="relaunch_launcher">Перезапуск Lenovo Лаунчера...</string>
     <string name="backup_extract_settings">Извлечение параметров...</string>
     <string name="backup_extract_items">Извлечение рабочего стола...</string>
-    <string name="desktop_first_launching">Первый раз для загрузки рабочего стола</string>
+    <string name="desktop_first_launching">Загрузка рабочего стола впервые</string>
     <string name="failed_to_unmix">Файл не является файлом стандартного профиля!</string>
+    <string name="theme_appling_progress_info">Применение темы, пожалуйста, подождите</string>
 </resources>

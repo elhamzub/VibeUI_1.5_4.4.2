@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<resources>
     <string name="wallpapers">«Живые» обои MTK</string>
-    <string name="vlw">Видеообои</string>
+    <string name="vlw">Видео обои</string>
     <string name="vlw_desc">Установить видеозапись в качестве «живых» обоев.</string>
     <string name="VideoScene_error_text_invalid_progressive_playback">Извините! Данная видеозапись не пригодна для передачи на данное устройство.</string>
     <string name="VideoScene_error_text_unknown">Извините! Данную видеозапись невозможно воспроизвести.</string>

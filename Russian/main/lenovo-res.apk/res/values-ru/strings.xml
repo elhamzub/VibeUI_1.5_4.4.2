@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lsr_window_smart_rolled_toast">Окно с функцией интеллектуальной прокрутки</string>
-    <string name="lsr_window_not_support_smart_rolled_toast">"Окно не поддерживает функцию интеллектуальной прокрутки"</string>
-    <string name="lwt_description_target_back">back</string>
-    <string name="lwt_description_target_home">home</string>
-    <string name="lwt_description_target_menu">menu</string>
-    <string name="lwt_description_target_status_bar">status_bar</string>
+    <string name="lsr_window_not_support_smart_rolled_toast">Окно не поддерживает функцию интеллектуальной прокрутки</string>
     <string name="dlg_use_ipo_confirm">Быстрая начальная загрузка при следующей перезагрузке</string>
     <string name="dlg_ipo_confirm_warning">В режиме быстрой загрузки питание системы отключено не полностью. Не подключайте SIM-карту или карту памяти в этом состоянии, т.к. это приводит к ее выходу из строя.</string>
     <string name="storage_sd_card">SD-карта</string>

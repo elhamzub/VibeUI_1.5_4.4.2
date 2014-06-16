@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="light">Индикация</string>
-    <string name="breath_settings">Настройка яркости</string>
-    <string name="breath_delay">Частота мигания</string>
-    <string name="breath_delay_info">Чем меньше задержка, тем больше будет потребляться энергии</string>
-    <string name="light_switch_settings">Настройка подсветки</string>
-    <string name="coming_call">Входящие</string>
-    <string name="miss_call">Пропущенные</string>
-    <string name="unread_msg">Непрочитанные SMS</string>
-    <string name="battery_low_msg">Батарея разряжена</string>
+    <string name="light">Индикатор событий</string>
+    <string name="breath_settings">Параметры дыхания</string>
+    <string name="breath_delay">Цикл дыхания</string>
+    <string name="breath_delay_info">Чем меньше задержка, тем выше энергопотребление</string>
+    <string name="light_switch_settings">Параметры освещения</string>
+    <string name="coming_call">Входящий вызов</string>
+    <string name="miss_call">Пропущенный вызов</string>
+    <string name="unread_msg">Непрочитанное сообщение</string>
+    <string name="battery_low_msg">Состояние батареи</string>
     <string name="sina_weibo_notify">Уведомление SinaWeibo</string>
     <string name="qq_weibo_notify">Уведомление TencentWeibo</string>
     <string name="music_play">Музыка</string>

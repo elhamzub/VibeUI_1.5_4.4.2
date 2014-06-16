@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
-    <string name="app_label">Хранилище содержания, защищенного DRM</string>
-    <string name="permlab_accessDrm">Доступ к содержанию DRM.</string>
-    <string name="permdesc_accessDrm">Приложение получит доступ к контенту, защищенному DRM.</string>
+<resources>
+    <string name="app_label">DRM Защита</string>
+    <string name="permlab_accessDrm">Содержание DRM доступа.</string>
+    <string name="permdesc_accessDrm">Дает приложению доступ к содержимому.</string>
     <string name="permlab_installDrm">Установка содержания DRM.</string>
-    <string name="permdesc_installDrm">Приложение сможет устанавливать контент с защитой DRM.</string>
+    <string name="permdesc_installDrm">Позволяет установку DRM-защищенного содержимого.</string>
 </resources>

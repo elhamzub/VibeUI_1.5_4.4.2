@@ -254,6 +254,8 @@
     <string name="smart_endurance_summery">Автоматический выбор режима работы.</string>
     <string name="smart_more_settings_summery">Расширенный опыт энергосбережения</string>
     <string name="smart_more_settings_title">Больше параметров энергосбережения</string>
+    <string name="smart_wifisave_summery">При отсутствии соединений, Wi-Fi отключается</string>
+    <string name="smart_wifisave_title">Wi-Fi экономия</string>
     <string name="monday">Понедельник</string>
     <string name="tuesday">Вторник</string>
     <string name="wednesday">Среда</string>
@@ -276,7 +278,6 @@
     <string name="silent_install">Выполняется обновление программы \"Power Manager\"… Подождите…</string>
     <string name="package_manager_list_summery">Заморозка приложений для снижения энергопотребления</string>
     <string name="package_manager_tips">Замороженные приложения не будут отображаться в средстве запуска</string>
-    <string name="package_manager_tips_no_advise" />
     <string name="package_manager_tips_advise_freeze">Рекомендуется заморозка</string>
     <string name="package_manager_tips_system_dont_advise_freeze">Не замораживать</string>
     <string name="package_manager_tips_user_dont_advise_freeze">Не рекомендовать заморозку</string>
@@ -339,13 +340,15 @@
     <string name="str_check_warning_07">Уровень заряда батареи составляет менее 15%.</string>
     <string name="str_check_warning_08">Подключите зарядное устройство</string>
     <string name="str_function_desc">"Вы стали замечать, что по прошествии определенного времени эксплуатации емкость батареи стала меньше, а также сократилось время работоспособности телефона?
- Функция калибровки батареи предназначена для решения этой проблемы, т.к. позволяет вернуть ее состояние к нормальному значению. Это придает прочность батарее и точность ее данным. 
+ Функция калибровки батареи предназначена для решения этой проблемы, т. к. позволяет вернуть ее состояние к нормальному значению. Это придает прочность батарее и точность ее данным. 
 
  Примечание: Не отключайте зарядное устройство во время выполнения калибровки. Во время калибровки могут возникнуть ошибки."</string>
     <string name="timeout">Параметры тайм-аута</string>
     <string name="timeout_dialog_title">Выберите значение тайм-аута.</string>
     <string name="smart_btsave_summery">При длительном отсутствии подключения по Bluetooth данная функция будет отключена.</string>
     <string name="smart_btsave_title">Интеллектуальное энергосбережение Bluetooth</string>
+    <string name="smart_gpssave_summery">При отсутствии соединений GPS отключается</string>
+    <string name="smart_gpssave_title">GPS экономия</string>
     <string name="windowani">Выбор масштаба Оконной анимации</string>
     <string name="windowani_check">Анимационные эффекты</string>
     <string name="windowani_check_sum">Отключите оконную анимацию и переходный анимационный эффект для экономии электроэнергии.</string>
@@ -372,6 +375,8 @@
     <string name="onekey_exam_mobiledataconnect_opened">подключение моб. передачи данных</string>
     <string name="onekey_exam_simcard1">SIM-Карта 1</string>
     <string name="onekey_exam_simcard2">SIM-Карта 2</string>
+    <string name="smart_ctrl_title">Смарт-параметры</string>
+    <string name="smart_ctrl_summery">Автоматически использовать функции на основании параметров</string>
     <string name="action_settings">Параметры</string>
     <string name="classicmode_exit_hint_text">Для выхода из режима экстренного энергосбережения коснитесь кнопки \"Закрыть\".</string>
     <string name="power_low_than_15">Менее 15%</string>
@@ -493,7 +498,7 @@
     <string name="dialog_wifisave_text">Время ожидания соединения Wi-Fi истекло. Отключить его для экономии энергии?</string>
     <string name="dialog_wifisave_title">Уведомление об отключении Wi-Fi</string>
     <string name="consumption_percent_less">&lt; %s</string>
-    <string name="copyright">© Lenovo, 2012–2013 г. Все права защищены.</string>
+    <string name="copyright">© Lenovo, 2012–2014 г. Все права защищены.</string>
     <string name="capacity_arrow">></string>
     <string name="settings_lighter">Индикатор уведомления</string>
     <string name="mode_super_notice_titile">Примечание</string>

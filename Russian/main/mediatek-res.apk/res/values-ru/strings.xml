@@ -21,7 +21,7 @@
     <string name="invalidPuk">Введите 8 цифр.</string>
     <string name="pin_length_indicate">(4-8 цифр)</string>
     <string name="puk_length_indicate">(8 цифр)</string>
-    <string name="one_retry_left">Осталась 1 попытка</string>
+    <string name="one_retry_left">Осталась одна попытка</string>
     <string name="invalid_imei">Неправильный IMEI</string>
     <string name="same_imei">Одинаковый IMEI</string>
     <string name="oper_long_46000">CMCC</string>
@@ -136,13 +136,9 @@
 
 Попробуйте еще раз через %d сек."</string>
     <string name="wifi_display_change_resolution_reminder">Change resolution will reconnect wireless display automatically.</string>
-    <string name="wifi_display_do_not_remind_again">Do not remind again.</string>
-    <string name="wifi_display_wifi_ap_affects_quality">Current WLAN AP may affect the quality of Wireless display.</string>
-    <string name="data_conn_only">Data connection only</string>
-    <string name="wap_browser_pakcage">com.myriad.android.kunbrowser</string>
-    <string name="wap_browser_component">com.myriad.android.kunbrowser.BrowserActivity</string>
-    <string name="wap_browser_keyword">s.139.com</string>
-    <string name="wap_browser_url_flag">search_url</string>
+    <string name="wifi_display_do_not_remind_again">Не напоминать.</string>
+    <string name="wifi_display_wifi_ap_affects_quality">Текущий AP WLAN может повлиять на качество беспроводного дисплея.</string>
+    <string name="data_conn_only">Только мобильная сеть</string>
     <string name="aerr_application_lowstorage">Внутренняя память заканчивается, по этому приложение было остановлено. Освободите место и попробуйте еще раз.</string>
     <string name="aerr_process_lowstorage">Внутренняя память заканчивается, по этому процесс был остановлен. Освободите место и попробуйте еще раз.</string>
     <string name="low_internal_storage_view_title">Внутренняя память заканчивается</string>
@@ -207,7 +203,6 @@
     <string name="wap_push_setting_noti_text">Нажмите для выбора</string>
     <string name="url_dialog_choice_title">Сообщения</string>
     <string name="url_dialog_choice_message">Это откроет браузер, продолжить?</string>
-    <string name="wifi_tether_configure_ssid_default_for_cmcc">MTK Athens15</string>
     <string name="deleteApp">Удаление приложений</string>
     <string name="deleteMail">Резервное копирование почты и удаление хранилища</string>
     <string name="storage_withsd">На внутреннем хранилище не хватает места. Очистите место или измените память по умолчанию</string>

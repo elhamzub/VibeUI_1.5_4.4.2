@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Программа установки пакета</string>
+    <string name="app_name">Установщик приложений</string>
     <string name="next">Далее</string>
     <string name="install">Установить</string>
     <string name="done">Готово</string>

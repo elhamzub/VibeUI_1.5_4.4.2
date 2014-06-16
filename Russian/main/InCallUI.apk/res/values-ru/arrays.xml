@@ -84,9 +84,4 @@
         <item>Обычные</item>
         <item>Длинные</item>
     </string-array>
-    <string-array name="voicemail_notification_vibrate_when_values">
-        <item>always</item>
-        <item>silent</item>
-        <item>never</item>
-    </string-array>
 </resources>

@@ -3,7 +3,7 @@
     <string name="voice_ui_camera_command_title">Голосовое управление камерой</string>
     <string name="voice_ui_phone_command_title">Голосовое управление телефоном</string>
     <string name="voice_ui_alarm_command_title">Голосовое управление будильником</string>
-    <string name="app_name">VoiceCommand</string>
+    <string name="app_name">Голосовое управление</string>
     <string name="voice_ui_title">Управление голосом</string>
     <string name="voice_ui_app_category">Для приложений</string>
     <string name="voice_ui_setting_category">Настройки</string>

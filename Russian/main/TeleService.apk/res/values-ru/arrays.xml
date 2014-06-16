@@ -3,10 +3,10 @@
     <string-array name="language_list_values">
         <item>Все языки</item>
         <item>Немецкий</item>
-        <item>английский</item>
+        <item>Английский</item>
         <item>Итальянский</item>
         <item>французский</item>
-        <item>испанский</item>
+        <item>Испанский</item>
         <item>Голландский</item>
         <item>Шведский</item>
         <item>Датский</item>
@@ -19,7 +19,7 @@
         <item>Польский</item>
         <item>Другие</item>
         <item>Чешский</item>
-        <item>иврит</item>
+        <item>Иврит</item>
         <item>Арабский</item>
         <item>Русский</item>
         <item>Исландский</item>

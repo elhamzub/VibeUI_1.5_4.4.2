@@ -19,7 +19,7 @@
     <string name="input_pwd">Введите пароль</string>
     <string name="error_tips_null">Пароль пустой, введите еще.</string>
     <string name="pwd_error_tips">Пароль неверен, введите еще.</string>
-    <string name="isLastImage">это последняя попытка.</string>
+    <string name="isLastImage">Это последняя попытка.</string>
     <string name="isFirstImage">Это первая попытка.</string>
     <string name="cantOpen">Невозможно открыть это фото</string>
     <string name="addImage">Добавить</string>
@@ -78,7 +78,7 @@
     <string name="select_image_location">Выберите Расположение Фото</string>
     <string name="scan_image">Автоматическое сканирование Фотографии</string>
     <string name="manul_image">Выбор фото вручную</string>
-    <string name="select_video_location">Выберите Местоположение Видео </string>
+    <string name="select_video_location">Выберите Местоположение Видео</string>
     <string name="scan_video">Автоматическое сканирование Видео</string>
     <string name="manul_video">Выберите Видео вручную</string>
     <string name="add_pri_image">Добавить</string>
@@ -134,7 +134,7 @@
     <string name="add_app_fail">Неудачная попытка заблокировать приложение</string>
     <string name="open">Открыть</string>
     <string name="unlock">Разблокировать</string>
-    <string name="locked"> добавлено в списке Шифрование</string>
+    <string name="locked">добавлено в списке Шифрование</string>
     <string name="rm_app_ok">Приложение(я) успешно разблокированы</string>
     <string name="rm_app_failed">Не возможно удалить заблокированное приложение!</string>
     <string name="wait_img_folder">Сканирование и загрузка фотографий с SD-карты...</string>
@@ -184,13 +184,13 @@
     <string name="private_file_null">Нет файлов в SafeBox!</string>
     <string name="private_video_null">Нет видео в SafeBox!</string>
     <string name="private_image_null">Нет Фото в SafeBox!</string>
-    <string name="SUS_SETTINGS_NEVERPROMPT">不再提醒</string>
-    <string name="SUS_VERSIONUPDATE">检测到新版本！</string>
-    <string name="SUS_UPDATEVERPROMPT_VERNAME">版本名：</string>
-    <string name="SUS_UPDATEVERPROMPT_VERSIZE">版本大小：</string>
+    <string name="SUS_SETTINGS_NEVERPROMPT">Никогда не напоминать</string>
+    <string name="SUS_VERSIONUPDATE">Обнаружена новая версия!</string>
+    <string name="SUS_UPDATEVERPROMPT_VERNAME">Версия：</string>
+    <string name="SUS_UPDATEVERPROMPT_VERSIZE">Размер：</string>
     <string name="SUS_UPDATESIZEPROMPT_WIFI">若流量有限，建议用WLAN下载！</string>
-    <string name="SUS_UPDATE">更新</string>
-    <string name="SUS_CANCEL">取消</string>
+    <string name="SUS_UPDATE">Обновить</string>
+    <string name="SUS_CANCEL">Отмена</string>
     <string name="SUS_DOWNLOAD_TITLE">乐安全保险箱正在下载..</string>
     <string name="SUS_LATESTVERSION">已经是最新版本！</string>
     <string name="SUS_NOTFOUND">已经是最新版本！</string>
@@ -212,8 +212,8 @@
     <string name="SUS_NOTIFICATION_ABORTUPDATE_BUTTONTEXT">取消更新</string>
     <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_1">(本窗口将在</string>
     <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_2">秒后自动隐藏)</string>
-    <string name="SUS_DOWNLOAD">开始请求下载...</string>
+    <string name="SUS_DOWNLOAD">Загрузка...</string>
     <string name="SUS_DOWNLOAD_version">注：下载完成后将自动安装新版本并退出。</string>
-    <string name="SUS_INSTALL_SUCCEED">安装完成</string>
+    <string name="SUS_INSTALL_SUCCEED">Установка завершена</string>
     <string name="SUS_UPDATE_DES" />
 </resources>

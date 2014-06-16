@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">MTK анимированные обои</string>
+    <string name="vlw">видео обои</string>
+    <string name="vlw_desc">видео клипы будет установлен в качестве обоев рабочего стола</string>
+    <string name="VideoScene_error_text_invalid_progressive_playback">к сожалению, это видео является не допустимым видео поток</string>
+    <string name="VideoScene_error_text_unknown">к сожалению, это видео не может быть посеяны</string>
+    <string name="VideoScene_error_media_removed">видео файл был удален</string>
+    <string name="VideoScene_error_sdcard_unmounted">карта памяти не установлена</string>
+    <string name="VideoScene_info_wait_sdcard">карты памяти в настоящее время готовится, пожалуйста подождите</string>
+    <string name="VideoScene_error_media_not_found">видео файл не существует</string>
+    <string name="VideoScene_error_be_set">к сожалению, это видео не может установить в качестве обоев</string>
+    <string name="VideoEditor_error_title">недопустимое видео</string>
+    <string name="VideoEditor_error_button">определяет</string>
+    <string name="VideoEditor_error_no_video_selected">не избранное видео</string>
+    <string name="VideoEditor_warning_limited_duration">видео клипы не может быть менее чем за секунду</string>
+    <string name="VideoScene_reload_after_mount">загрузить видео с карты памяти, пожалуйста, подождите</string>
+    <string name="select_video">карта памяти</string>
+    <string name="select_default">значения по умолчанию</string>
+    <string name="select">Параметры видео</string>
+    <string name="set_wallpaper">установить обои</string>
+    <string name="title">видео обои</string>
+    <string name="default_title">по умолчанию видео</string>
+    <string name="capture_video">стрельба</string>
+    <string name="menu_item_add_item">выберите видео на карте памяти</string>
+    <string name="group_video">Выбор видео</string>
+    <string name="group_folder">выберите папку</string>
+    <string name="folder_info">видео &lt; br настроек от &lt; br раздел настроек</string>
+</resources>

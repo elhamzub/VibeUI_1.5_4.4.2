@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="pref_slide_effect_choices">
-        <item>Стандарт</item>
+        <item>По умолчанию</item>
         <item>Поворот</item>
-        <item>Сдвиг</item>
-        <item>Мельница</item>
+        <item>Бульдозер</item>
+        <item>Ветряная мельница</item>
         <item>Куб</item>
-        <item>Волна</item>
+        <item>Синусоида</item>
         <item>Цилиндр</item>
     </string-array>
     <string-array name="pref_gesture_choices">
         <item>Не использовать</item>
-        <item>Меню рабочего стола</item>
-        <item>Список запущенных приложений</item>
+        <item>Меню Лаунчера</item>
+        <item>Запущенные приложения</item>
         <item>Панель уведомлений</item>
-        <item>Найти иконку</item>
-        <item>Экран блокировки</item>
+        <item>Поиск иконки</item>
+        <item>Блокировка экрана</item>
     </string-array>
 </resources>

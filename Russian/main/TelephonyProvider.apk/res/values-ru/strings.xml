@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
-    <string name="app_label">Память номеров/SMS/MMS</string>
+<resources>
+    <string name="app_label">Хранения номеров/сообщений</string>
 </resources>

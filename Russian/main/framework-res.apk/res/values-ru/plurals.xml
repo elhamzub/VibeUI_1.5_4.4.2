@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<resources>
     <plurals name="pinpuk_attempts">
         <item quantity="other">У вас %d попыток до блокировки SIM-карты.</item>
         <item quantity="one">У вас осталось %d попытки до блокировки SIM-карты.</item>

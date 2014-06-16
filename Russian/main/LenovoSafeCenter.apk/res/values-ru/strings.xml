@@ -88,7 +88,7 @@
     <string name="autorun_dialog_title">Оповещение SECUREit</string>
     <string name="autorun_dialog_message">%d прилож. в автозапуске, отключите их, для ускорения телефона</string>
     <string name="autorun_dialog_action_negative">Отмена</string>
-    <string name="autorun_dialog_action_positive">Ввод</string>
+    <string name="autorun_dialog_action_positive">Ок</string>
     <string name="notice_no_rooted_for_boot">Требуется получение root для возможности использования.</string>
     <string name="notification_scan_app_progress">(%1$d/%2$d)</string>
     <string name="intercept_record_none">Нет содержимого</string>
@@ -138,6 +138,8 @@
     <string name="notification_already_report">Отчет</string>
     <string name="notification_report_success">Отчет выполнен</string>
     <string name="notification_report_ad">Сообщить о приложении с рекламой</string>
+    <string name="notification_record_btn_cancel">Отмена</string>
+    <string name="notification_record_btn_ok">OK</string>
     <string name="adv_desc">"Блокировка
    рекламы"</string>
     <string name="against_theft">Анти-вор</string>
@@ -214,7 +216,7 @@
     <string name="scan_auto_update_detail">Автоматическое обновление базы данных не Включено</string>
     <string name="scan_bootapp_detail">Проверить приложения, загруженные при запуске</string>
     <string name="scan_cache_detail">Сканировать кэш-память телефона</string>
-    <string name="scan_can_backup_contact_lecloud">Адресная книга изменена. Выполните резервное копирование системы безопасности (рекомендуется)</string>
+    <string name="scan_can_backup_contact_lecloud">Адресная книга изменена. Выполните резервное копирование системы безопасности. (рекомендуется)</string>
     <string name="scan_harass_intercept_detail">Анти-спам</string>
     <string name="scaning_text">Сканирование…</string>
     <string name="scan_lecloud_can_update">Доступна новая резервная копия системы безопасности</string>
@@ -341,7 +343,6 @@
     <string name="pwd_set">Установка пароля</string>
     <string name="qrcode_text">QR код</string>
     <string name="safe_backup">Надежная система облачного хранения</string>
-    <string name="score_text" />
     <string name="second_pwd_error_insuff">Notice: Your second password are not 6 digits. Please enter it again!</string>
     <string name="share_dialog_detail_bluetooth_text">"На обоих устройствах должен быть включен Bluetooth.
 2. Должно быть разрешено обнаружение устройства"</string>
@@ -449,10 +450,8 @@
     <string name="health_checkup">Проверка</string>
     <string name="help_tv_1">Анти-вор</string>
     <string name="help_tv_2">Ваш охранник данных, когда ваш телефон потерян</string>
-    <string name="thank_user" />
     <string name="feedback_first_network_unavaliable">Welcome to use SECUREit feedback system. Please connect your network and communicate with us!</string>
     <string name="feedback_first_network_avaliable">Добро пожаловать в SECUREit системы обратной связи</string>
-    <string name="feedback_null_string" />
     <string name="feedback_feedback_msg">Feedback in app</string>
     <string name="feedback_send">Отправить</string>
     <string name="feedback_send_msg_empty">Содержание не может быть пустым!</string>
@@ -463,7 +462,6 @@
     Значит соглашаемся."</string>
     <string name="permission_server_title">«Лицензионное соглашение»</string>
     <string name="enable_net_desc">Для защиты вашего телефона, SECUREit требуется подключение к сети, а плата взимается операторами.</string>
-    <string name="about_msg" />
     <string name="amg_apkfile">АРК Менеджер</string>
     <string name="amg_title">"  Управление
 приложениями"</string>
@@ -823,7 +821,6 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="install_failed_older_sdk">Пакет доступен только для новых версий Android.</string>
     <string name="install_failed_cpu_abi_incompatible">Приложение не совместимо с этим телефоном.</string>
     <string name="appmgr_app_version">v%s</string>
-    <string name="appmgr_app_version_null" />
     <string name="onekey_root_title_tip_info">Root permission denied, this function is unavailable.</string>
     <string name="appmgr_toast_no_old_version">Нет предыдущей версии</string>
     <string name="appmgr_toast_no_new_version">Нет новой версии</string>
@@ -923,7 +920,6 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="sysclear_free_memory">Используется памяти: %1$s( %2$s)</string>
     <string name="sysclear_whitelist">Игнор-лист</string>
     <string name="sysclear_whitelist_tips">Игнорировать</string>
-    <string name="empty" />
     <string name="sysclear_autorun">Self-start Control</string>
     <string name="sysclear_whitelist_manage">Выбранные программы не остановят очистку</string>
     <string name="sysclear_trash_root_folder">Список остатка:</string>
@@ -1006,7 +1002,6 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="SUS_DOWNLOAD_TITLE">Выполняется загрузка SECUREit</string>
     <string name="SUS_DOWNLOAD">Отправка запроса для загрузки…</string>
     <string name="SUS_DOWNLOAD_version">Примечание. После загрузки файла установка начнется автоматически и будет выполнен выход</string>
-    <string name="dbname">ledroid.opti.db</string>
     <string name="flow_zero">0B</string>
     <string name="float_window_dialog_remember">Запомнить выбор</string>
     <string name="float_window_dialog_msg_disable">"Закрыть гистограмму?
@@ -1170,7 +1165,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="trust_apps">Доверенное</string>
     <string name="detail_perm2">Это доверенное приложение</string>
     <string name="detail_perm3">Приложение может выполнять следующие операции:</string>
-    <string name="find_antivirus">Обнаружен Вирус. Пожалуйста, не устанавливайте!</string>
+    <string name="find_antivirus">Обнаружен вирус. Пожалуйста, не устанавливайте!</string>
     <string name="get_phoneloc">Узнать местоположение телефона</string>
     <string name="install_adv_stitle_off">Запретить сообщения в панели уведомлений</string>
     <string name="install_adv_stitle_on">Разрешить сообщения в панели уведомлений</string>
@@ -1182,7 +1177,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="no_premit">Это приложение не относится к разрешенным</string>
     <string name="pass_antivirus">SECUREit не обнаружил вирусов</string>
     <string name="permission_control">Защита приватности</string>
-    <string name="prase_error">Не в состоянии решить</string>
+    <string name="prase_error">Неизвестная ошибка</string>
     <string name="privacy_contact">Контакты,</string>
     <string name="privacy_detail2">Получение персональной информации(%1$s)</string>
     <string name="privacy_history">Internet Сookies,</string>
@@ -1196,7 +1191,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="install_perm_record">Использовать диктофон</string>
     <string name="install_perm_camera">Использовать камеру</string>
     <string name="virus_name">Название вируса:%1$s</string>
-    <string name="checking_virus">Обнаружен вирус...</string>
+    <string name="checking_virus">Проверка...</string>
     <string name="detail_perm">Это приложение использует:</string>
     <string name="detail_text">Подробнее</string>
     <string name="install">Установить</string>
@@ -1226,9 +1221,6 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="perm_wsms">Записывать сообщения в папке Входящие</string>
     <string name="perm_rcalllogs">Чтение журнала звонков</string>
     <string name="perm_rcontact">Доступ к контактам</string>
-    <string name="safe_defense_allow" />
-    <string name="safe_defense_deny" />
-    <string name="safe_defense_notify" />
     <string name="lesafe_pwd">Пароль</string>
     <string name="input_password_answer_right">Ответ правельный, можете изменить пароль.</string>
     <string name="callings">Вызовы</string>
@@ -1313,6 +1305,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
     <string name="install_intercept_installed_result_failed">Время ожидания для установки %s закончилось, попробуйте еще раз</string>
     <string name="default_app_name">Неизвестное Имя</string>
     <string name="permission_records_when_calling">При звонке</string>
+    <string name="permission_cancel">Отмена</string>
     <string name="perm_c_location">Получение информации о местоположении</string>
     <string name="perm_record">Запись</string>
     <string name="perm_camera">Использование камеры</string>
