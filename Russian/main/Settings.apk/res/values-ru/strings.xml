@@ -1275,7 +1275,7 @@
     <string name="wifi_poor_network_detection">Фильтр сетей Wi-Fi</string>
     <string name="wifi_poor_network_detection_summary">Не использовать сети Wi-Fi с плохим интернет-соединением</string>
     <string name="wifi_scan_always_available">Сканирование всегда включено</string>
-    <string name="wifi_scan_always_available_summary">Пусть расположение служба компании Google и другие приложения сканирование доступных сетей, даже если Wi-Fi выключен</string>
+    <string name="wifi_scan_always_available_summary">Позволить службам компании Google и другим приложениям сканировать доступные сети, даже если Wi-Fi выключен</string>
     <string name="wifi_install_credentials">Установка сертификатов</string>
     <string name="wifi_scan_notify_text_location_on">Для повышения точности местоположения и для других целей, Google и другие приложения могут сканировать соседних сетей, даже если Wi-Fi выключен. Если вы не хотите, чтобы это произошло, перейдите к Расширенный> Сканирование всегда в наличии.</string>
     <string name="wifi_scan_notify_text_location_off">Приложения могут сканировать соседних сетей, даже если Wi-Fi выключен. Если вы не хотите, чтобы это произошло, перейдите к Расширенный> Сканирование всегда в наличии.</string>
